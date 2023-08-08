@@ -1,0 +1,3228 @@
+# Translation of Plugins - The School Management &#8211; Education &amp; Learning Management - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - The School Management &#8211; Education &amp; Learning Management - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-18 20:01:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - The School Management &#8211; Education &amp; Learning Management - Stable (latest release)\n"
+
+#: public/inc/forms/inquiry.php:67
+msgid "Last Name"
+msgstr "Nom"
+
+#: public/inc/forms/inquiry.php:71
+msgid "Enter Last name"
+msgstr "Saisir le nom de famille"
+
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:24
+msgid "View Invoices"
+msgstr "Voir les factures"
+
+#: school-management-system.php:60
+msgid "Get Pro"
+msgstr "Passez à la version Pro"
+
+#. Plugin Name of the plugin
+msgid "The School Management - Education & Learning Management"
+msgstr "The School Management - Education & Learning Management"
+
+#: admin/inc/manager/schools/classes.php:100
+msgid "Assign Classes to the School"
+msgstr "Attribuer des classes à une école"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/school-management-system/"
+msgstr "https://wordpress.org/plugins/school-management-system/"
+
+#: admin/inc/WLSM_Database.php:414
+msgid "Default School"
+msgstr "Ecole par défaut "
+
+#: admin/inc/WLSM_Menu.php:94
+msgid "SM Student"
+msgstr "SM Apprenants"
+
+#: admin/inc/WLSM_Menu.php:74
+msgid "Sections"
+msgstr "Sections"
+
+#: admin/inc/WLSM_Menu.php:128
+msgid "SM Administrator"
+msgstr "SM Administrateurs"
+
+#: admin/inc/WLSM_Menu.php:66
+msgid "SM Academic"
+msgstr "SM Académie "
+
+#: admin/inc/WLSM_Menu.php:150
+msgid "SM Accounting"
+msgstr "SM Comptabilité"
+
+#: admin/inc/WLSM_Menu.php:44
+msgid "SM School"
+msgstr "SM Ecoles"
+
+#: admin/inc/school/print/invoice.php:84
+msgid "Due Date:"
+msgstr "Délai"
+
+#: admin/inc/school/print/invoice.php:80
+msgid "Date Issued:"
+msgstr "Date de sortie"
+
+#: admin/inc/WLSM_Menu.php:324
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: admin/inc/WLSM_Menu.php:44
+msgid "School"
+msgstr "Ecole"
+
+#: admin/inc/school/print/invoice.php:25
+msgid "Print Fee Invoice"
+msgstr "Imprimer la facture des frais"
+
+#. translators: 1: invoice title, 2: invoice number
+#: admin/inc/school/print/invoice.php:22
+msgid "Fee Invoice - %1$s (%2$s)"
+msgstr "Facture des frais - %1$s (%2$s)"
+
+#: admin/inc/school/print/partials/id_card.php:59
+msgid "Authorized By"
+msgstr "Autorisé par"
+
+#: admin/inc/school/print/payment.php:39
+msgid "Payment Receipt"
+msgstr "Reçu paiement"
+
+#: admin/inc/school/print/id_cards.php:8
+msgid "No student found."
+msgstr "Aucun élève trouvé."
+
+#: admin/inc/school/staff/groups/administrator.php:108
+msgid "Add New Staff"
+msgstr "Ajouter un nouveau personnel"
+
+#: admin/inc/school/staff/groups/administrator.php:105
+msgid "View Staff"
+msgstr "Afficher personnel"
+
+#: admin/inc/school/staff/groups/administrator.php:45
+#: admin/inc/WLSM_Menu.php:128 admin/inc/WLSM_Menu.php:131
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: admin/inc/school/staff/groups/administrator.php:89
+msgid "View Roles"
+msgstr "Afficher les rôles"
+
+#: admin/inc/school/staff/groups/student.php:71
+msgid "Promote Students"
+msgstr "Promouvoir les étudiants"
+
+#: admin/inc/school/staff/groups/student.php:55 admin/inc/WLSM_Menu.php:114
+msgid "ID Cards"
+msgstr "ID Cartes"
+
+#: admin/inc/school/staff/groups/student.php:34
+msgid "Add New Admission"
+msgstr "Ajouter nouvelle admission"
+
+#: admin/inc/school/staff/groups/student.php:31 admin/inc/WLSM_Menu.php:102
+msgid "Admission"
+msgstr "Admission"
+
+#: admin/inc/school/staff/groups/accounting.php:75 admin/inc/WLSM_Menu.php:150
+#: admin/inc/WLSM_Menu.php:153
+msgid "Accounting"
+msgstr "Comptabilité"
+
+#: admin/inc/school/staff/groups/academic.php:20 admin/inc/WLSM_Menu.php:66
+#: admin/inc/WLSM_Menu.php:69
+msgid "Academic"
+msgstr "Académique"
+
+#: admin/inc/school/staff/general/promote/index.php:107
+msgid "Manage Promotion"
+msgstr "Gérer la promotion"
+
+#: admin/inc/school/staff/general/promote/index.php:90
+msgid "Promotion To Class"
+msgstr "Promotion à classe"
+
+#: admin/inc/school/staff/general/promote/index.php:76
+msgid "Promotion From Class"
+msgstr "Promotion de la classe"
+
+#: admin/inc/school/staff/general/promote/index.php:65
+msgid "Select Next Session"
+msgstr "Sélectionnez prochaine session"
+
+#: admin/inc/school/staff/general/promote/index.php:63
+msgid "Promote to Session"
+msgstr "Promouvoir en session"
+
+#: admin/inc/school/staff/general/promote/index.php:57
+msgid "Current Session"
+msgstr "Session actuelle"
+
+#: admin/inc/school/staff/general/promote/index.php:49
+msgid "Select class to promote, next session and new class."
+msgstr "Sélectionnez la classe à promouvoir, la prochaine session et la nouvelle classe."
+
+#: admin/inc/school/staff/general/promote/index.php:46
+msgid "Promotion"
+msgstr "Promotion"
+
+#: admin/inc/school/staff/general/roles/index.php:14
+#: admin/inc/school/staff/groups/administrator.php:86
+#: admin/inc/WLSM_Menu.php:136
+msgid "Roles"
+msgstr "Rôles"
+
+#: admin/inc/school/staff/general/roles/save.php:129
+msgid "Update Role"
+msgstr "Mettre à jour le rôle"
+
+#: admin/inc/school/staff/general/roles/save.php:93
+msgid "Enter role name"
+msgstr "Entrez le nom du rôle"
+
+#: admin/inc/school/staff/general/roles/index.php:19
+#: admin/inc/school/staff/general/roles/save.php:58
+#: admin/inc/school/staff/general/roles/save.php:134
+#: admin/inc/school/staff/groups/administrator.php:92
+msgid "Add New Role"
+msgstr "Ajouter nouveau rôle"
+
+#: admin/inc/school/staff/general/inquiries/index.php:13
+#: admin/inc/WLSM_Menu.php:53
+msgid "Inquiries"
+msgstr "Demandes de renseignements"
+
+#: admin/inc/school/staff/general/inquiries/save.php:174
+msgid "Update Inquiry"
+msgstr "Mettre à jour renseignement"
+
+#: admin/inc/school/staff/general/inquiries/save.php:136
+msgid "Enter note"
+msgstr "Entrez la note"
+
+#: admin/inc/school/staff/general/inquiries/save.php:130
+msgid "Enter next date to follow up"
+msgstr "Entrez la date suivante suivi"
+
+#: admin/inc/school/staff/general/inquiries/save.php:128
+msgid "Next Follow Up Date"
+msgstr "Prochaine date de suivi"
+
+#: admin/inc/school/staff/general/inquiries/index.php:18
+#: admin/inc/school/staff/general/inquiries/save.php:57
+#: admin/inc/school/staff/general/inquiries/save.php:179
+msgid "Add New Inquiry"
+msgstr "Ajouter une nouvelle demande"
+
+#: admin/inc/school/staff/general/inquiries/save.php:55
+msgid "Edit Inquiry"
+msgstr "Modifier la demande"
+
+#: admin/inc/school/staff/general/students/index.php:59
+msgid "Search Student By Keyword"
+msgstr "Rechercher étudiant par mot-clé"
+
+#: admin/inc/school/staff/general/students/index.php:32
+msgid "Search Students"
+msgstr "Rechercher des étudiants"
+
+#: admin/inc/school/staff/general/dashboard/index.php:415
+#: admin/inc/school/staff/general/inquiries/index.php:32
+msgid "Follow Up Date"
+msgstr "Date de suivi"
+
+#: admin/inc/school/staff/general/dashboard/index.php:403
+msgid "Last 10 Active Inquiries"
+msgstr "10 dernières demandes actives"
+
+#: admin/inc/school/staff/general/dashboard/index.php:392
+msgid "Inquiries Active"
+msgstr "Demandes de renseignements actives"
+
+#: admin/inc/school/staff/general/dashboard/index.php:384
+msgid "Total Inquiries"
+msgstr "Nombre total de demandes"
+
+#: admin/inc/school/staff/general/dashboard/index.php:258
+#: admin/inc/school/staff/groups/administrator.php:76
+msgid "Staff Active"
+msgstr "Personnel actif"
+
+#: admin/inc/school/staff/general/dashboard/index.php:250
+#: admin/inc/school/staff/groups/administrator.php:68
+msgid "Total Staff"
+msgstr "Effectif total personnels"
+
+#: admin/inc/school/staff/general/dashboard/index.php:240
+#: admin/inc/school/staff/groups/administrator.php:58
+msgid "Total Roles"
+msgstr "Total Rôles"
+
+#: admin/inc/school/staff/general/dashboard/index.php:230
+msgid "Total Admins"
+msgstr "Total administrateurs"
+
+#: admin/inc/school/staff/general/dashboard/index.php:180
+msgid "Total Sections"
+msgstr "Total Sections"
+
+#: admin/inc/school/staff/general/dashboard/index.php:172
+msgid "Total Classes"
+msgstr "Total Classes"
+
+#: admin/inc/school/staff/general/settings/email-templates/student_admission.php:22
+msgid "Student Admission Email"
+msgstr "Email admission étudiant"
+
+#: admin/inc/school/staff/general/settings/email-templates/invoice_generated.php:22
+msgid "Invoice Generated Email"
+msgstr "E-mail généré par la facture"
+
+#: admin/inc/school/staff/general/settings/email-templates/online_fee_submission.php:22
+msgid "Online Fee Submission Email"
+msgstr "Email de soumission des frais en ligne"
+
+#: admin/inc/school/staff/general/settings/email-templates/offline_fee_submission.php:22
+msgid "Offline Fee Submission Email"
+msgstr "Email de soumission des frais hors ligne"
+
+#: admin/inc/school/staff/general/settings/index.php:52
+msgid "Payment Methods"
+msgstr "Méthodes de payement"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:149
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:153
+msgid "SMTP Port"
+msgstr "Port SMTP"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:136
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:140
+msgid "SMTP Encryption"
+msgstr "Chiffrement SMTP"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:123
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:127
+msgid "SMTP Password"
+msgstr "Mot de passe SMTP"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:97
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:101
+msgid "SMTP Host"
+msgstr "Hôte SMTP"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:58
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:62
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:84
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:88
+msgid "From Name"
+msgstr "Du nom"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:41
+#: admin/inc/school/staff/general/settings/index.php:42
+msgid "Email Carrier"
+msgstr "Fournisseur Email"
+
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:75
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:79
+msgid "Stripe Secret Key"
+msgstr "Clé secrète Stripe"
+
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:62
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:66
+msgid "Stripe Publishable Key"
+msgstr "Clé publiable Stripe"
+
+#. translators: %s: currency code
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:48
+msgid "Stripe does not support currency %s."
+msgstr "Stripe ne prend pas en charge les devises %s."
+
+#: admin/inc/school/staff/general/settings/email-templates/invoice_generated.php:29
+#: admin/inc/school/staff/general/settings/email-templates/offline_fee_submission.php:29
+#: admin/inc/school/staff/general/settings/email-templates/online_fee_submission.php:29
+#: admin/inc/school/staff/general/settings/email-templates/student_admission.php:29
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:40
+msgid "Enable"
+msgstr "Activer"
+
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:33
+msgid "Stripe Payment"
+msgstr "Paiement Stripe"
+
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:24
+msgid "Stripe Payment Gateway"
+msgstr "Passerelle de paiement Stripe"
+
+#: admin/inc/school/staff/general/id-cards/index.php:65
+msgid "All Students"
+msgstr "Tous les étudiants"
+
+#: admin/inc/school/staff/general/id-cards/index.php:64
+msgid "Active Students"
+msgstr "Étudiants actifs"
+
+#: admin/inc/school/staff/general/id-cards/index.php:33
+#: admin/inc/school/staff/general/students/index.php:92
+msgid "Search Students By Class"
+msgstr "Rechercher étudiants par classe"
+
+#: admin/inc/school/staff/general/id-cards/index.php:13
+msgid "Print ID Cards in Bulk"
+msgstr "Imprimer des cartes ID en vrac"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3713
+msgid "Payment settings saved."
+msgstr "Paramètres de paiement enregistrés."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3469
+msgid "Email settings saved."
+msgstr "Paramètres Email enregistrés."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3357
+msgid "Please select a valid email carrier."
+msgstr "Veuillez sélectionner un fournisseur de messagerie valide."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3119
+msgid "Students promoted successfully."
+msgstr "Les étudiants sont promus avec succès."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2999
+msgid "Please select valid new sections for mapping."
+msgstr "Veuillez sélectionner de nouvelles sections valides pour le mappage."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2997
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3051
+msgid "Please select corresponding new sections for mapping."
+msgstr "Veuillez sélectionner les nouvelles sections correspondantes pour le mappage."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2993
+msgid "Please select valid class for each student."
+msgstr "Veuillez sélectionner une classe valide pour chaque élève."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2987
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3113
+msgid "Please select valid students."
+msgstr "Veuillez sélectionner des étudiants valides."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2859
+#: admin/inc/WLSM_Menu.php:120
+msgid "Promote"
+msgstr "Promouvoir"
+
+#. translators: 1: current session, 2: new session
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2847
+msgid "Session From <span class=\"wlsm-font-bold\">%1$s</span> to <span class=\"wlsm-font-bold\">%2$s</span>"
+msgstr "Session de <span class=\"wlsm-font-bold\">%1$s</span> to <span class=\"wlsm-font-bold\">%2$s</span>"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2797
+msgid "Options"
+msgstr "Options"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2783
+msgid "Select students to enroll in next session."
+msgstr "Sélectionnez les étudiants à inscrire à la prochaine session."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2746
+msgid "Assign to Section"
+msgstr "Attribuer à la section"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2736
+msgid "Students From Section"
+msgstr "Élèves de la section"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2699
+msgid "Map Class Sections"
+msgstr "Carte Sections de classe"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2657
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2947
+msgid "Promotion to class can't be the same."
+msgstr "La promotion en classe ne peut pas être la même."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2654
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2944
+msgid "Please select promotion to class."
+msgstr "Veuillez sélectionner une promotion de classe."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2640
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2930
+msgid "Please select promotion from class."
+msgstr "Veuillez sélectionner la promotion de la classe."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2630
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2920
+msgid "Start date of new session must be after end date of current session."
+msgstr "La date de début de la nouvelle session doit être postérieure à la date de fin de la session en cours."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2628
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2918
+msgid "New session must be different from current session."
+msgstr "La nouvelle session doit être différente de la session actuelle."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2626
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2916
+msgid "Please select new session."
+msgstr "Veuillez sélectionner une nouvelle session."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2538
+msgid "Inquiry deleted successfully."
+msgstr "Requête a bien été supprimée."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2483
+msgid "Inquiry added successfully."
+msgstr "Requête a bien été ajoutée."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2480
+msgid "Inquiry updated successfully."
+msgstr " Requête a bien été mise à jour."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2379
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2521
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2582
+msgid "Inquiry not found."
+msgstr "Requête non trouvée."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2329
+msgid "This will delete the inquiry."
+msgstr "Cela supprimera la requête."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2313
+msgid "Add Admission"
+msgstr "Ajouter une admission"
+
+#: admin/inc/school/staff/general/dashboard/index.php:429
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2307
+msgid "Inquiry Message"
+msgstr "Message de requête"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2068
+msgid "Role deleted successfully."
+msgstr "Le rôle a bien été supprimé."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1986
+msgid "Role added successfully."
+msgstr "Rôle ajouté avec succès."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1983
+msgid "Role updated successfully."
+msgstr "Rôle mis à jour avec succès."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1963
+msgid "Role already exists with this name."
+msgstr "Le rôle existe déjà avec ce nom."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1944
+msgid "Please provide role name."
+msgstr "Veuillez fournir le nom du rôle."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1933
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2051
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2111
+msgid "Role not found."
+msgstr "Rôle non trouvé."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1887
+msgid "This will delete the role."
+msgstr "Cela supprimera le rôle."
+
+#. translators: %s: staff role
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1788
+msgid "%s deleted successfully."
+msgstr "%s Supprimé avec succès."
+
+#. translators: %s: staff role
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1580
+msgid "%s added successfully."
+msgstr "%s ajouté avec succès."
+
+#. translators: %s: staff role
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1577
+msgid "%s updated successfully."
+msgstr "%s Mis à jour avec succès."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1523
+msgid "Please select valid staff role."
+msgstr "Veuillez sélectionner un rôle de personnel valide."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1495
+msgid "Maximum length cannot exceed 80 characters."
+msgstr "Longueur maximale ne peut pas dépasser 80 caractères."
+
+#. translators: %s: staff role
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1436
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1764
+msgid "%s not found."
+msgstr "%s non trouvé"
+
+#. translators: %s: staff role
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1354
+msgid "This will delete the %s."
+msgstr "Cela supprimera le %s."
+
+#: admin/inc/school/print/id_cards.php:37
+#: admin/inc/school/staff/general/id-cards/index.php:75
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1183
+#: admin/inc/school/staff/groups/student.php:58
+msgid "Print ID Cards"
+msgstr "Imprimer cartes ID"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1136
+msgid "All"
+msgstr "Tout"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:890
+msgid "Student record deleted successfully."
+msgstr "Dossier étudiant supprimé avec succès."
+
+#: admin/inc/school/staff/general/students/index.php:149
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:807
+msgid "Session Records"
+msgstr "Enregistrements de session"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:399
+msgid "Admission added successfully."
+msgstr "Admission ajoutée avec succès."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:378
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1557
+msgid "Please provide login password."
+msgstr "Veuillez fournir un mot de passe de connexion."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:364
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:372
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1543
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1551
+msgid "Please provide login email."
+msgstr "Veuillez fournir une adresse e-mail de connexion."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:352
+msgid "Roll number already exists in this class."
+msgstr "Le numéro du rôle existe déjà dans cette classe."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:290
+msgid "Please provide photo in JPG, JPEG or PNG format."
+msgstr "Veuillez fournir une photo au format JPG, JPEG ou PNG."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:281
+msgid "Please select section."
+msgstr "Veuillez sélectionner une section."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:272
+msgid "Maximum length cannot exceed 30 characters."
+msgstr "Longueur maximale ne peut dépasser 30 caractères."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:251
+msgid "Please specify blood group."
+msgstr "Veuillez préciser le groupe sanguin."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:248
+msgid "Please specify gender."
+msgstr "Veuillez préciser le sexe."
+
+#: admin/inc/school/staff/class/subjects/index.php:14
+#: admin/inc/school/staff/groups/academic.php:43 admin/inc/WLSM_Menu.php:80
+msgid "Subjects"
+msgstr "Sujets"
+
+#: admin/inc/school/staff/class/subjects/save.php:135
+msgid "Update Subject"
+msgstr "Mettre à jour le sujet"
+
+#: admin/inc/school/staff/class/subjects/index.php:29
+#: admin/inc/school/staff/class/subjects/save.php:100
+msgid "Subject Type"
+msgstr "Type de sujet"
+
+#: admin/inc/school/staff/class/subjects/save.php:93
+msgid "Enter subject code"
+msgstr "Entrez le code du sujet"
+
+#: admin/inc/school/staff/class/subjects/index.php:28
+#: admin/inc/school/staff/class/subjects/save.php:91
+msgid "Subject Code"
+msgstr "Code du sujet"
+
+#: admin/inc/school/staff/class/subjects/save.php:87
+msgid "Enter subject name"
+msgstr "Entrez le nom du sujet"
+
+#: admin/inc/school/staff/class/subjects/index.php:27
+#: admin/inc/school/staff/class/subjects/save.php:85
+msgid "Subject Name"
+msgstr "Nom du sujet"
+
+#: admin/inc/school/staff/class/subjects/index.php:19
+#: admin/inc/school/staff/class/subjects/save.php:58
+#: admin/inc/school/staff/class/subjects/save.php:140
+#: admin/inc/school/staff/groups/academic.php:49
+msgid "Add New Subject"
+msgstr "Ajouter un nouveau sujet"
+
+#: admin/inc/school/staff/class/subjects/teachers.php:94
+msgid "Teacher"
+msgstr "Enseignant"
+
+#: admin/inc/school/staff/class/subjects/index.php:31
+#: admin/inc/school/staff/class/subjects/teachers.php:63
+msgid "Teachers"
+msgstr "Enseignants"
+
+#: admin/inc/school/staff/class/subjects/teachers.php:53
+#: admin/inc/school/staff/groups/academic.php:46
+msgid "View Subjects"
+msgstr "Afficher les sujets"
+
+#: admin/inc/school/staff/class/notices/index.php:31
+msgid "Added By"
+msgstr "Ajouté par"
+
+#: admin/inc/school/staff/class/notices/index.php:28
+msgid "Link To"
+msgstr "Lié à"
+
+#: admin/inc/school/staff/class/notices/save.php:165
+msgid "Update Notice"
+msgstr "Notification Mise à jour "
+
+#: admin/inc/school/staff/class/notices/save.php:126
+msgid "Choose Attachment File"
+msgstr "Choisissez le fichier pièce jointe"
+
+#: admin/inc/school/staff/class/notices/save.php:107
+msgid "Notice URL"
+msgstr "URL notification"
+
+#: admin/inc/school/staff/class/notices/save.php:83
+msgid "Link to"
+msgstr "Lien à"
+
+#: admin/inc/school/staff/class/notices/save.php:76
+msgid "Enter notice"
+msgstr "Entrez notification"
+
+#: admin/inc/school/staff/class/notices/index.php:27
+#: admin/inc/school/staff/class/notices/save.php:74
+msgid "Notice"
+msgstr "Notification"
+
+#: admin/inc/school/staff/class/notices/index.php:19
+#: admin/inc/school/staff/class/notices/save.php:47
+#: admin/inc/school/staff/class/notices/save.php:170
+#: admin/inc/school/staff/groups/academic.php:65
+msgid "Add New Notice"
+msgstr "Ajouter nouvelle notification"
+
+#: admin/inc/school/staff/class/notices/save.php:45
+msgid "Edit Notice"
+msgstr "Modifier notification"
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1435
+msgid "Teachers assigned successfully."
+msgstr "Enseignants affectés avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1401
+msgid "Please select atleast one teacher to assign."
+msgstr "Veuillez sélectionner au moins un enseignant à attribuer."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1252
+msgid "This will remove this teacher from the subject."
+msgstr "Cela supprimera cet enseignant du sujet."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1143
+msgid "Subject deleted successfully."
+msgstr "Sujet supprimé avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1063
+msgid "Subject added successfully."
+msgstr "Sujet ajouté avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1060
+msgid "Subject updated successfully."
+msgstr "Sujet mis à jour avec succès"
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1038
+msgid "Subject code already exists."
+msgstr "Le code de sujet existe déjà."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1026
+msgid "Subject name already exists."
+msgstr "Le nom du sujet existe déjà."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:999
+msgid "Please select subject type."
+msgstr "Veuillez sélectionner le type de sujet."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:987
+msgid "Please provide subject name."
+msgstr "Veuillez fournir le nom du sujet."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:974
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1126
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1292
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1394
+msgid "Subject not found."
+msgstr "Sujet non trouvé."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:928
+msgid "This will delete the subject."
+msgstr "Cela supprimera le sujet."
+
+#: admin/inc/school/staff/class/subjects/teachers.php:82
+#: admin/inc/school/staff/class/subjects/teachers.php:104
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:915
+msgid "Assign Teachers"
+msgstr "Attribuer des enseignants"
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:711
+msgid "Notice added successfully."
+msgstr "Notification ajoutée avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:810
+msgid "Notice deleted successfully."
+msgstr "Notification supprimée avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:708
+msgid "Notice updated successfully."
+msgstr "Notification mis à jour avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:674
+msgid "Please provide notice text."
+msgstr "Veuillez fournir le texte de notification."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:660
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:793
+msgid "Notice not found."
+msgstr "Notification non trouvé"
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:614
+msgid "This will delete the notice."
+msgstr "Cela supprimera la notification."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:437
+msgid "Section deleted successfully."
+msgstr "Section supprimée avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:410
+msgid "Default section can't be deleted."
+msgstr "La section par défaut ne peut être supprimée."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:327
+msgid "Section added successfully."
+msgstr "Section ajoutée avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:323
+msgid "Section updated successfully."
+msgstr "Section mise à jour avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:294
+msgid "Section already exists."
+msgstr "La section existe déjà."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:279
+msgid "Please provide section label."
+msgstr "Veuillez fournir étiquette de section."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:267
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:406
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:106
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:330
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1131
+msgid "Section not found."
+msgstr "Section introuvable."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:87
+msgid "Add Sections"
+msgstr "Ajouter sections"
+
+#: admin/inc/school/staff/class/classes/sections.php:155
+msgid "Update Section"
+msgstr "Mise à jour Section"
+
+#: admin/inc/school/staff/class/classes/sections.php:136
+msgid "Currently set to default section."
+msgstr "Actuellement défini sur section par défaut."
+
+#: admin/inc/school/staff/class/classes/sections.php:131
+msgid "Enter section"
+msgstr "Entrez  section"
+
+#: admin/inc/school/staff/class/classes/sections.php:108
+#: admin/inc/school/staff/class/classes/sections.php:112
+#: admin/inc/school/staff/class/classes/sections.php:160
+msgid "Add New Section"
+msgstr "Ajouter une nouvelle section"
+
+#: admin/inc/school/staff/class/classes/sections.php:76
+#: admin/inc/school/staff/groups/academic.php:30
+#: admin/inc/school/staff/groups/academic.php:33 admin/inc/WLSM_Menu.php:74
+msgid "Class Sections"
+msgstr "Sections de classe"
+
+#: admin/inc/school/staff/class/classes/sections.php:66
+msgid "View Classes"
+msgstr "Voir les classes"
+
+#: admin/inc/school/staff/class/classes/index.php:18
+#: admin/inc/school/staff/class/classes/sections.php:82
+msgid "Total Students"
+msgstr "Total étudiants"
+
+#: admin/inc/school/staff/class/classes/index.php:17
+msgid "Number of Sections"
+msgstr "Nombre de sections"
+
+#: admin/inc/school/staff/class/classes/index.php:9
+msgid "Classes and Sections"
+msgstr "Classes et sections"
+
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:68
+msgid "Enter additional note"
+msgstr "Entrez note supplémentaire"
+
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:66
+msgid "Additional Note"
+msgstr "Remarque additionnelle"
+
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:42
+msgid "Enter amount"
+msgstr "Entrer le montant"
+
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:67
+msgid "Invoice Status"
+msgstr "État de facture"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:177
+msgid "Amount Pending"
+msgstr "Montant en attente"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:171
+msgid "Payment Received"
+msgstr "Paiement reçu"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:124
+msgid "Search Fee Invoice By Class"
+msgstr "Rechercher facture des frais par classe"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:114
+#: admin/inc/school/staff/general/students/index.php:82
+msgid "Enter Search Keyword"
+msgstr "Entrez le mot-clé de recherche"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:112
+#: admin/inc/school/staff/general/students/index.php:80
+msgid "Keyword"
+msgstr "Mot-clé"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:102
+#: admin/inc/school/staff/general/students/index.php:70
+msgid "Select Search Field"
+msgstr "Sélectionnez champ de recherche"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:99
+#: admin/inc/school/staff/general/students/index.php:67
+msgid "Search Field"
+msgstr "Champ de recherche"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:91
+msgid "Search Fee Invoice By Keyword"
+msgstr "Rechercher facture de frais par mot-clé"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:80
+#: admin/inc/school/staff/general/students/index.php:48
+msgid "Search By Class"
+msgstr "Recherche par classe"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:74
+#: admin/inc/school/staff/general/students/index.php:42
+msgid "Search By Keyword"
+msgstr "Recherche par mots-clés"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:64
+msgid "Search Fee Invoices"
+msgstr "Rechercher factures de frais"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:36
+msgid "Student Fee Invoices"
+msgstr "Factures frais étudiant"
+
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:29
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:49
+#: admin/inc/school/staff/general/dashboard/index.php:526
+msgid "Delete"
+msgstr "Effacer"
+
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:46
+#: admin/inc/school/staff/general/dashboard/index.php:524
+msgid "Fahter Phone"
+msgstr "Téléphone du père"
+
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:45
+#: admin/inc/school/staff/general/dashboard/index.php:523
+msgid "Fahter Name"
+msgstr "Nom du père"
+
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:26
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:37
+#: admin/inc/school/staff/general/inquiries/save.php:134
+msgid "Note"
+msgstr "Note"
+
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:150
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:32
+msgid "Add New Payment"
+msgstr "Ajouter nouveau paiement"
+
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:106
+msgid "Allow Partial Payments"
+msgstr "Autoriser paiements partiels"
+
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:70
+msgid "View All Invoices"
+msgstr "Afficher toutes les factures"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:234
+msgid "Update Fee Invoice"
+msgstr "Mettre à jour facture des frais"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:207
+msgid "Enter discount amount"
+msgstr "Entrez montant de remise"
+
+#: admin/inc/school/print/invoice.php:124
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:102
+#: admin/inc/school/staff/accountant/invoices/save.php:205
+msgid "Discount"
+msgstr "Remise"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:201
+msgid "Enter invoice amount"
+msgstr "Entrez montant de facture"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:192
+msgid "Enter description"
+msgstr "Entrez description"
+
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:114
+#: admin/inc/school/staff/accountant/invoices/save.php:190
+msgid "Description"
+msgstr "Description"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:179
+msgid "Enter invoice title"
+msgstr "Entrez titre de facture"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:156
+msgid "Student Fee Invoices & Payments"
+msgstr "Factures et paiements frais étudiant"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:156
+msgid "Please select only one student."
+msgstr "Veuillez sélectionner un seul étudiant."
+
+#: admin/inc/school/staff/accountant/invoices/save.php:153
+msgid "Select"
+msgstr "Sélectionner"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:150
+#: admin/inc/school/staff/accountant/invoices/save.php:151
+#: admin/inc/school/staff/groups/student.php:21 admin/inc/WLSM_Menu.php:94
+#: admin/inc/WLSM_Menu.php:97
+msgid "Student"
+msgstr "Étudiant"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:150
+#: admin/inc/school/staff/general/id-cards/index.php:61
+#: admin/inc/school/staff/general/students/index.php:14
+#: admin/inc/school/staff/groups/student.php:44 admin/inc/WLSM_Menu.php:108
+msgid "Students"
+msgstr "Étudiants"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:147
+#: admin/inc/school/staff/accountant/invoices/save.php:146
+#: admin/inc/school/staff/general/id-cards/index.php:56
+#: admin/inc/school/staff/general/students/index.php:115
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:48
+msgid "All Sections"
+msgstr "Toutes les sections"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:122
+msgid "Create Bulk Invoice"
+msgstr "Créer une facture groupée"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:116
+msgid "Create Single Invoice"
+msgstr "Créer une facture unique"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:45
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:20
+#: admin/inc/school/staff/accountant/invoices/save.php:85
+#: admin/inc/school/staff/accountant/invoices/save.php:263
+#: admin/inc/school/staff/groups/accounting.php:212
+msgid "Add New Fee Invoice"
+msgstr "Ajouter nouvelle facture de frais"
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1346
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3191
+msgid "This will delete the payment."
+msgstr "Cela supprimera le paiement."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1148
+msgid "Please provide a valid amount."
+msgstr "Veuillez fournir un montant valide."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1118
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1407
+msgid "Payment deleted successfully."
+msgstr "Paiement supprimé avec succès."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1003
+msgid "Payment added successfully."
+msgstr "Paiement ajouté avec succès."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:982
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1168
+msgid "Maximum length cannot exceed 50 characters."
+msgstr "Longueur maximale ne peut pas dépasser 50 caractères."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:924
+msgid "This will delete the payment from invoice."
+msgstr "Cela supprimera le paiement de la facture."
+
+#: admin/inc/school/print/payment.php:25
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:921
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1342
+msgid "Print Payment Receipt"
+msgstr "Imprimer le reçu de paiement"
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:906
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1320
+msgid "Payment Note"
+msgstr "Note de paiement"
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:660
+msgid "Invoice deleted successfully."
+msgstr "Facture a été supprimée avec succès."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:502
+msgid "Invoice added successfully."
+msgstr "Facture ajoutée avec succès."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:488
+msgid "Invoice updated successfully."
+msgstr "Facture mise à jour avec succès."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:456
+msgid "Student(s) not found."
+msgstr "Élève (s) introuvable."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:449
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2985
+msgid "Please select students."
+msgstr "Veuillez sélectionner des étudiants."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:417
+msgid "Please select a student."
+msgstr "Veuillez sélectionner un étudiant."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:387
+msgid "Discount must be lower or equal to invoice amount."
+msgstr "La remise doit être inférieure ou égale au montant de la facture."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:383
+msgid "Please specify a valid invoice amount."
+msgstr "Veuillez indiquer un montant de facture valide."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:378
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:990
+msgid "Maximum length cannot exceed 100 characters."
+msgstr "La longueur maximale ne peut pas dépasser 100 caractères."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:375
+msgid "Please provide invoice title."
+msgstr "Veuillez fournir le titre de la facture."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:355
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:643
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:704
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:966
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1092
+msgid "Invoice not found."
+msgstr "Facture introuvable."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:290
+msgid "This will delete the invoice."
+msgstr "Cela supprimera la facture."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:288
+msgid "Print Invoice"
+msgstr "Impression de facture"
+
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:104
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:264
+msgid "Collect Payment"
+msgstr "Collecter le paiement"
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:58
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:627
+msgid "Please specify search field."
+msgstr "Veuillez spécifier le champ de recherche."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:56
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:625
+msgid "Please enter search keyword."
+msgstr "Veuillez saisir le mot-clé de recherche."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:51
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:620
+msgid "Please specify search criteria."
+msgstr "Veuillez préciser les critères de recherche."
+
+#. translators: %s: role name
+#: admin/inc/school/staff/partials/save_staff.php:386
+msgid "Update %s"
+msgstr "Mise à jour %s"
+
+#: admin/inc/school/staff/general/roles/save.php:103
+#: admin/inc/school/staff/partials/save_staff.php:238
+msgid "Permissions"
+msgstr "Autorisations"
+
+#: admin/inc/school/staff/partials/save_staff.php:228
+msgid "Enter salary"
+msgstr "Entrez le salaire"
+
+#: admin/inc/school/staff/partials/save_staff.php:219
+msgid "Enter designation"
+msgstr "Entrez désignation"
+
+#: admin/inc/school/staff/partials/save_staff.php:205
+msgid "Select Role"
+msgstr "Sélectionnez un rôle"
+
+#: admin/inc/school/staff/partials/save_staff.php:202
+msgid "School administrators bypass all permissions."
+msgstr "Les administrateurs contournent toutes les autorisations."
+
+#: admin/inc/school/staff/partials/save_staff.php:182
+msgid "Joining Detail"
+msgstr "Joindre le détail"
+
+#: admin/inc/school/staff/partials/save_staff.php:320
+#: admin/inc/school/staff/partials/save_staff.php:344
+#: admin/inc/school/staff/partials/save_student.php:467
+#: admin/inc/school/staff/partials/save_student.php:491
+msgid "Enter password"
+msgstr "Entrer le mot de passe"
+
+#: admin/inc/school/staff/partials/save_staff.php:318
+#: admin/inc/school/staff/partials/save_staff.php:342
+#: admin/inc/school/staff/partials/save_student.php:465
+#: admin/inc/school/staff/partials/save_student.php:489
+msgid "Password"
+msgstr "Mot de passe"
+
+#: admin/inc/school/staff/partials/save_staff.php:261
+#: admin/inc/school/staff/partials/save_student.php:412
+msgid "Login Detail"
+msgstr "Détails de connexion"
+
+#: admin/inc/school/staff/partials/save_student.php:400
+msgid "Mother Occupation"
+msgstr "Occupation de la mère"
+
+#: admin/inc/school/staff/partials/save_student.php:396
+msgid "Enter mother phone number"
+msgstr "Entrez le numéro de téléphone de la mère"
+
+#: admin/inc/school/staff/partials/save_student.php:394
+msgid "Mother Phone"
+msgstr "Téléphone de la mère"
+
+#: admin/inc/school/staff/partials/save_student.php:390
+msgid "Enter mother name"
+msgstr "Entrez le nom de la mère"
+
+#: admin/inc/school/staff/partials/save_student.php:388
+msgid "Mother Name"
+msgstr "Nom de la mère"
+
+#: admin/inc/school/staff/partials/save_student.php:381
+msgid "Enter father occupation"
+msgstr "Entrez la profession du père"
+
+#: admin/inc/school/staff/partials/save_student.php:379
+msgid "Father Occupation"
+msgstr "Profession du père"
+
+#: admin/inc/school/staff/partials/save_student.php:375
+msgid "Enter father phone number"
+msgstr "Entrez le numéro de téléphone du père"
+
+#: admin/inc/school/staff/partials/save_student.php:369
+msgid "Enter father name"
+msgstr "Entrez le nom du père"
+
+#: admin/inc/school/staff/partials/save_student.php:359
+msgid "Parent Detail"
+msgstr "Détail parent"
+
+#: admin/inc/school/staff/general/settings/general/index.php:34
+#: admin/inc/school/staff/partials/save_student.php:345
+msgid "Choose File"
+msgstr "Choisir le fichier"
+
+#: admin/inc/school/staff/partials/save_student.php:337
+msgid "Upload Photo"
+msgstr "Télécharger photos"
+
+#: admin/inc/school/staff/partials/save_student.php:330
+msgid "Enter class roll number"
+msgstr "Entrez le numéro du rôle de classe"
+
+#: admin/inc/school/staff/partials/save_student.php:308
+msgid "Select Section"
+msgstr "Sélectionnez une section"
+
+#: admin/inc/school/staff/partials/save_student.php:256
+msgid "Enter student phone number"
+msgstr "Entrez le numéro de téléphone étudiant"
+
+#: admin/inc/school/staff/partials/save_student.php:234
+msgid "Select Blood Group"
+msgstr "Sélectionnez groupe sanguin"
+
+#: admin/inc/school/staff/partials/save_student.php:231
+msgid "Blood Group"
+msgstr "Groupe sanguin"
+
+#: admin/inc/school/staff/partials/save_student.php:225
+msgid "Caste"
+msgstr "Classe sociale"
+
+#: admin/inc/school/staff/partials/save_student.php:227
+msgid "Enter caste"
+msgstr "Entrez classe sociale"
+
+#: admin/inc/school/staff/partials/save_student.php:221
+msgid "Enter religion"
+msgstr "Entrez la religion"
+
+#: admin/inc/school/staff/partials/save_student.php:219
+msgid "Religion"
+msgstr "Religion"
+
+#: admin/inc/school/staff/partials/save_staff.php:149
+#: admin/inc/school/staff/partials/save_student.php:212
+msgid "Enter date of birth"
+msgstr "Entrer date de naissance"
+
+#: admin/inc/school/staff/partials/save_staff.php:147
+#: admin/inc/school/staff/partials/save_student.php:210
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+#: admin/inc/school/staff/partials/save_staff.php:127
+#: admin/inc/school/staff/partials/save_student.php:190
+msgid "Gender"
+msgstr "Le sexe"
+
+#: admin/inc/school/staff/partials/save_staff.php:112
+#: admin/inc/school/staff/partials/save_student.php:175
+msgid "Personal Detail"
+msgstr "Détail personnel"
+
+#: admin/inc/school/staff/groups/student.php:47
+#: admin/inc/school/staff/partials/save_student.php:144
+msgid "View Students"
+msgstr "Afficher étudiants"
+
+#: admin/inc/school/staff/general/roles/index.php:27
+#: admin/inc/school/staff/general/roles/save.php:86
+#: admin/inc/school/staff/partials/save_staff.php:197
+#: admin/inc/school/staff/partials/staff_records.php:30
+msgid "Role"
+msgstr "Rôle"
+
+#: admin/inc/school/staff/partials/save_staff.php:217
+#: admin/inc/school/staff/partials/staff_records.php:29
+msgid "Designation"
+msgstr "Désignation"
+
+#: admin/inc/school/staff/partials/save_staff.php:226
+#: admin/inc/school/staff/partials/staff_records.php:28
+msgid "Salary"
+msgstr "Salaire"
+
+#. translators: %s: role name
+#: admin/inc/school/staff/partials/save_staff.php:84
+#: admin/inc/school/staff/partials/save_staff.php:392
+#: admin/inc/school/staff/partials/staff_records.php:5
+msgid "Add New %s"
+msgstr "Ajouter nouveau %s"
+
+#: admin/inc/school/staff/WLSM_Staff_School.php:100
+msgid "Session changed."
+msgstr "La session a changé."
+
+#: admin/inc/school/staff/WLSM_Staff_School.php:65
+msgid "Unable to find your role."
+msgstr "Impossible de trouver votre rôle."
+
+#: admin/inc/manager/WLSM_Session.php:344
+msgid "Session deleted successfully."
+msgstr "Session supprimée avec succès."
+
+#: admin/inc/manager/WLSM_Session.php:284
+msgid "Session added successfully."
+msgstr "Session ajoutée avec succès."
+
+#: admin/inc/manager/WLSM_Session.php:280
+msgid "Session updated successfully."
+msgstr "Session mise à jour avec succès."
+
+#: admin/inc/manager/WLSM_Session.php:237
+msgid "Please provide end date of a session."
+msgstr "Please provide end date of a session."
+
+#: admin/inc/manager/WLSM_Session.php:227
+msgid "Session start date must be lower than end date."
+msgstr "La date de début de la session doit être inférieure à la date de fin."
+
+#: admin/inc/manager/WLSM_Session.php:222
+msgid "Maximum length cannot exceed 191 characterss."
+msgstr "Longueur maximale ne peut pas dépasser 191 caractères."
+
+#: admin/inc/manager/WLSM_Session.php:219
+msgid "Please provide session label."
+msgstr "Veuillez fournir le libellé de la session."
+
+#: admin/inc/manager/WLSM_Session.php:165
+msgid "This will delete all data associated with this session."
+msgstr "Cela supprimera toutes les données associées à cette session."
+
+#: admin/inc/manager/WLSM_Class.php:240
+msgid "Class deleted successfully."
+msgstr "Classe supprimée avec succès."
+
+#: admin/inc/manager/WLSM_Class.php:180
+msgid "Class added successfully."
+msgstr "Classe ajoutée avec succès."
+
+#: admin/inc/manager/WLSM_Class.php:176
+msgid "Class updated successfully."
+msgstr "Classe mise à jour avec succès."
+
+#: admin/inc/manager/WLSM_Class.php:148
+msgid "Class already exists."
+msgstr "La classe existe déjà."
+
+#: admin/inc/manager/WLSM_Class.php:133
+msgid "Please provide class name."
+msgstr "Veuillez fournir le nom de la classe."
+
+#: admin/inc/manager/WLSM_Class.php:81
+msgid "This will delete all data associated with this class."
+msgstr "Cela supprimera toutes les données associées à cette classe."
+
+#: admin/inc/manager/settings/index.php:248
+msgid "Delete Data On Uninstall"
+msgstr "Supprimer les données lors de la désinstallation"
+
+#: admin/inc/manager/settings/index.php:226
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: admin/inc/manager/settings/index.php:221
+msgid "Reset all settings."
+msgstr "Réinitialiser tous les réglages."
+
+#: admin/inc/manager/settings/index.php:218
+msgid "Recreate all database tables."
+msgstr "Recréez toutes les tables de la base de données."
+
+#: admin/inc/manager/settings/index.php:167
+msgid "To display login form and student dashboard on a page or post, use shortcode"
+msgstr "Pour afficher le formulaire de connexion et le tableau de bord des étudiants sur une page ou une publication, utilisez le code court"
+
+#: admin/inc/manager/settings/index.php:160
+#: admin/inc/manager/settings/index.php:170
+#: admin/inc/manager/settings/index.php:180
+#: admin/inc/manager/settings/index.php:190
+msgid "Copy"
+msgstr "Copie"
+
+#: admin/inc/manager/settings/index.php:157
+msgid "To display fees submission form on a page or post, use shortcode"
+msgstr "Pour afficher le formulaire de soumission des frais sur une page ou un article, utilisez le code court"
+
+#: admin/inc/manager/settings/index.php:145
+#: admin/inc/manager/settings/index.php:265
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:163
+#: admin/inc/school/staff/general/settings/email-templates/index.php:28
+#: admin/inc/school/staff/general/settings/general/index.php:58
+#: admin/inc/school/staff/general/settings/payment-methods/index.php:91
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin/inc/manager/settings/index.php:135
+msgid "Enable GDPR Compliance for Inquiry Form"
+msgstr "Activer la conformité au RGPD pour le formulaire de demande"
+
+#: admin/inc/manager/settings/index.php:128
+msgid "GDPR Compliance"
+msgstr "Conformité GDPR"
+
+#: admin/inc/manager/settings/index.php:111
+msgid "Set Currency"
+msgstr "Définir la devise"
+
+#: admin/inc/manager/settings/index.php:94
+msgid "Set Date Format"
+msgstr "Définir le format de la date"
+
+#: admin/inc/manager/settings/index.php:76
+msgid "Set Active Session"
+msgstr "Définir la session active"
+
+#: admin/inc/manager/settings/index.php:52
+msgid "Uninstall"
+msgstr "Désinstaller"
+
+#: admin/inc/manager/settings/index.php:42
+msgid "Shortcodes"
+msgstr "Code court"
+
+#: admin/inc/manager/settings/index.php:37
+#: admin/inc/school/staff/general/settings/index.php:37
+msgid "General"
+msgstr "Général"
+
+#: admin/inc/manager/settings/index.php:26
+#: admin/inc/school/staff/general/settings/index.php:26
+#: admin/inc/WLSM_Menu.php:22 admin/inc/WLSM_Menu.php:59
+#: school-management-system.php:54
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/inc/manager/WLSM_Setting.php:103
+msgid "Uninstall settings saved."
+msgstr "Paramètres de désinstallation enregistrés."
+
+#: admin/inc/manager/classes/index.php:29
+#: admin/inc/manager/schools/classes.php:75
+#: admin/inc/manager/sessions/index.php:30
+#: admin/inc/school/staff/accountant/invoices/index.php:202
+#: admin/inc/school/staff/class/classes/sections.php:83
+#: admin/inc/school/staff/class/notices/index.php:32
+#: admin/inc/school/staff/class/subjects/index.php:32
+#: admin/inc/school/staff/class/subjects/teachers.php:72
+#: admin/inc/school/staff/general/inquiries/index.php:34
+#: admin/inc/school/staff/general/roles/index.php:28
+#: admin/inc/school/staff/general/students/index.php:151
+#: admin/inc/school/staff/partials/staff_records.php:35
+msgid "Action"
+msgstr "Action"
+
+#: admin/inc/manager/sessions/index.php:14 admin/inc/WLSM_Menu.php:19
+msgid "Sessions"
+msgstr "Sessions"
+
+#: admin/inc/manager/sessions/save.php:114
+msgid "Update Session"
+msgstr "Mettre à jour la session"
+
+#: admin/inc/manager/sessions/save.php:103
+msgid "Enter end date"
+msgstr "Entrez la date de fin"
+
+#: admin/inc/manager/sessions/index.php:29
+#: admin/inc/manager/sessions/save.php:101
+msgid "End Date"
+msgstr "Date de fin"
+
+#: admin/inc/manager/sessions/save.php:96
+msgid "Enter start date"
+msgstr "Entrez la date de début"
+
+#: admin/inc/manager/sessions/index.php:28
+#: admin/inc/manager/sessions/save.php:94
+msgid "Start Date"
+msgstr "Date de début"
+
+#: admin/inc/manager/sessions/save.php:89
+msgid "Enter label"
+msgstr "Entrez le libellé"
+
+#: admin/inc/manager/classes/save.php:65 admin/inc/manager/sessions/save.php:69
+#: admin/inc/school/staff/accountant/invoices/save.php:93
+#: admin/inc/school/staff/class/notices/save.php:55
+#: admin/inc/school/staff/class/subjects/save.php:66
+#: admin/inc/school/staff/general/inquiries/save.php:65
+#: admin/inc/school/staff/general/roles/save.php:66
+#: admin/inc/school/staff/partials/save_staff.php:92
+#: admin/inc/school/staff/partials/save_student.php:137
+msgid "View All"
+msgstr "Voir tout"
+
+#: admin/inc/manager/classes/save.php:60 admin/inc/manager/schools/save.php:65
+#: admin/inc/manager/sessions/save.php:64
+msgid "Fill all the required fields (<span class=\"wlsm-important\">*</span>)."
+msgstr "Remplissez tous les champs obligatoires (<span class=\"wlsm-important\">*</span>)."
+
+#: admin/inc/manager/sessions/index.php:19
+#: admin/inc/manager/sessions/save.php:53
+#: admin/inc/manager/sessions/save.php:119
+msgid "Add New Session"
+msgstr "Ajouter une nouvelle session"
+
+#: admin/inc/manager/WLSM_School.php:1020
+#: admin/inc/school/staff/WLSM_Staff_School.php:63
+msgid "School selected successfully."
+msgstr "École sélectionnée avec succès."
+
+#: admin/inc/manager/WLSM_School.php:927
+msgid "Admin updated successfully."
+msgstr "Administrateur a bien été mis à jour."
+
+#: admin/inc/manager/WLSM_School.php:712
+msgid "Admin removed from the school successfully."
+msgstr "Administrateur a bien été supprimé avec succès."
+
+#: admin/inc/manager/WLSM_School.php:684 admin/inc/manager/WLSM_School.php:757
+msgid "Admin not found."
+msgstr "Administrateur introuvable."
+
+#: admin/inc/manager/WLSM_School.php:629
+msgid "Admin assigned successfully."
+msgstr "Administrateur a été attribué avec succès."
+
+#: admin/inc/manager/WLSM_School.php:550 admin/inc/manager/WLSM_School.php:807
+msgid "Please select an option."
+msgstr "Veuillez sélectionner une option."
+
+#: admin/inc/manager/WLSM_School.php:542 admin/inc/manager/WLSM_School.php:799
+#: admin/inc/manager/WLSM_School.php:814
+msgid "Please provide email address."
+msgstr "Veuillez fournir une adresse e-mail."
+
+#. translators: 1: student name, 2: enrollment number
+#: admin/inc/school/print/id_card.php:24
+msgid "ID Card - %1$s (%2$s)"
+msgstr "Carte ID - %1$s (%2$s)"
+
+#: admin/inc/manager/schools/save.php:94
+#: admin/inc/school/staff/partials/save_staff.php:156
+#: admin/inc/school/staff/partials/save_student.php:247
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/inc/manager/WLSM_School.php:354
+msgid "Classes assigned successfully."
+msgstr "Classes attribuées avec succès."
+
+#: admin/inc/manager/WLSM_School.php:323
+msgid "Please select atleast one class to assign."
+msgstr "Veuillez sélectionner au moins une classe à attribuer."
+
+#. translators: %s: staff role
+#: admin/inc/manager/WLSM_Class.php:81 admin/inc/manager/WLSM_School.php:196
+#: admin/inc/manager/WLSM_School.php:472 admin/inc/manager/WLSM_Session.php:165
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:290
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:924
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1346
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:197
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:614
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:928
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1252
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:815
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1354
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1887
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2329
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3191
+msgid "Confirm"
+msgstr "Confirmer"
+
+#. translators: %s: staff role
+#: admin/inc/manager/settings/index.php:226 admin/inc/manager/WLSM_Class.php:81
+#: admin/inc/manager/WLSM_School.php:196 admin/inc/manager/WLSM_School.php:472
+#: admin/inc/manager/WLSM_Session.php:165
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:290
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:924
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1346
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:197
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:614
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:928
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1252
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:815
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1354
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1887
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2329
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2859
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3191
+msgid "Cancel"
+msgstr "Annuler"
+
+#: admin/inc/manager/WLSM_School.php:49 admin/inc/manager/WLSM_School.php:53
+#: admin/inc/manager/WLSM_School.php:514 admin/inc/manager/WLSM_School.php:776
+msgid "Maximum length cannot exceed 255 characters."
+msgstr "Longueur maximale ne peut pas dépasser 255 caractères."
+
+#: admin/inc/manager/WLSM_Class.php:137 admin/inc/manager/WLSM_School.php:45
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:283
+msgid "Maximum length cannot exceed 191 characters."
+msgstr "Longueur maximale ne peut pas dépasser 191 caractères."
+
+#: public/inc/WLSM_P_Inquiry.php:113
+msgid "Your inquiry has been submitted successfully."
+msgstr "Votre demande a été soumise avec succès."
+
+#: public/inc/WLSM_P_Inquiry.php:74
+msgid "Please check for GDPR consent."
+msgstr "Veuillez vérifier le consentement GDPR."
+
+#: public/inc/WLSM_P_Inquiry.php:53
+msgid "Please write your message."
+msgstr "Veuillez rédiger votre message."
+
+#: admin/inc/manager/WLSM_School.php:57 admin/inc/manager/WLSM_School.php:546
+#: admin/inc/manager/WLSM_School.php:803 admin/inc/manager/WLSM_School.php:818
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:242
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:375
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1489
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1554
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2411
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3361
+#: public/inc/WLSM_P_Inquiry.php:46
+msgid "Please provide a valid email."
+msgstr "Veuillez fournir un e-mail valide."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:995
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:232
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:235
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:238
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:299
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:308
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1485
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2406
+#: public/inc/WLSM_P_Inquiry.php:41
+msgid "Maximum length cannot exceed 40 characters."
+msgstr "Longueur maximale ne peut pas dépasser 40 caractères."
+
+#: public/inc/WLSM_P_Inquiry.php:39
+msgid "Please provide your phone number."
+msgstr "Veuillez fournir votre numéro de téléphone."
+
+#: admin/inc/manager/WLSM_School.php:518 admin/inc/manager/WLSM_School.php:771
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1479
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2399
+#: public/inc/WLSM_P_Inquiry.php:32
+msgid "Please specify name."
+msgstr "Veuillez préciser le nom."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:229
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:244
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:269
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:296
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:302
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:305
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:311
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1482
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1491
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1947
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2402
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2413
+#: public/inc/WLSM_P_Inquiry.php:35 public/inc/WLSM_P_Inquiry.php:48
+msgid "Maximum length cannot exceed 60 characters."
+msgstr "Longueur maximale ne peut pas dépasser 60 caractères."
+
+#: public/inc/forms/fees.php:96
+msgid "Search"
+msgstr "Chercher"
+
+#: public/inc/forms/fees.php:31
+msgid "Online Fee Submission"
+msgstr "Soumission des frais en ligne"
+
+#: admin/inc/school/staff/partials/save_student.php:537
+#: public/inc/forms/inquiry.php:134
+msgid "Submit"
+msgstr "Soumettre"
+
+#: admin/inc/school/staff/general/inquiries/save.php:118
+#: public/inc/forms/inquiry.php:102
+msgid "Enter message"
+msgstr "Entrez le message"
+
+#: admin/inc/school/staff/general/dashboard/index.php:413
+#: admin/inc/school/staff/general/inquiries/index.php:30
+#: admin/inc/school/staff/general/inquiries/save.php:116
+#: public/inc/forms/inquiry.php:98
+msgid "Message"
+msgstr "Message"
+
+#: admin/inc/school/staff/general/inquiries/save.php:106
+#: admin/inc/school/staff/partials/save_staff.php:165
+#: public/inc/forms/inquiry.php:82
+msgid "Enter phone number"
+msgstr "Entrez le numéro de téléphone"
+
+#: admin/inc/school/staff/general/inquiries/save.php:87
+#: admin/inc/school/staff/partials/save_staff.php:122
+#: public/inc/forms/inquiry.php:60
+msgid "Enter name"
+msgstr "Entrez le nom"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:135
+#: admin/inc/school/staff/accountant/invoices/save.php:134
+#: admin/inc/school/staff/class/subjects/save.php:116
+#: admin/inc/school/staff/general/id-cards/index.php:44
+#: admin/inc/school/staff/general/inquiries/save.php:94
+#: admin/inc/school/staff/general/promote/index.php:79
+#: admin/inc/school/staff/general/promote/index.php:93
+#: admin/inc/school/staff/general/students/index.php:103
+#: admin/inc/school/staff/partials/save_student.php:294
+#: public/inc/forms/fees.php:73 public/inc/forms/inquiry.php:44
+msgid "Select Class"
+msgstr "Sélectionnez une classe"
+
+#: admin/inc/school/print/id_card.php:29
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:808
+#: public/inc/account/student/dashboard.php:137
+msgid "Print ID Card"
+msgstr "Imprimer la carte ID"
+
+#: admin/inc/school/staff/general/students/index.php:150
+#: public/inc/account/student/dashboard.php:135
+msgid "ID Card"
+msgstr "Carte ID"
+
+#: admin/inc/manager/sessions/index.php:27
+#: admin/inc/manager/sessions/save.php:87
+#: admin/inc/school/print/partials/id_card.php:20
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1009
+#: public/inc/account/student/dashboard.php:115 public/inc/forms/fees.php:45
+msgid "Session"
+msgstr "Session"
+
+#: public/inc/account/student/dashboard.php:103
+msgid "Your Details"
+msgstr "Vos détails"
+
+#: admin/inc/manager/dashboard/index.php:28
+#: admin/inc/school/schools-assigned.php:23 admin/inc/WLSM_Menu.php:13
+#: admin/inc/WLSM_Menu.php:33 admin/inc/WLSM_Menu.php:48
+#: admin/inc/WLSM_Menu.php:69 admin/inc/WLSM_Menu.php:97
+#: admin/inc/WLSM_Menu.php:131 admin/inc/WLSM_Menu.php:153
+#: public/inc/account/student/partials/navigation.php:6
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: public/inc/account/student/partials/payment_history.php:121
+msgid "No payment found."
+msgstr "Aucun paiement trouvé."
+
+#: admin/inc/school/staff/accountant/invoices/save.php:156
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:288
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:906
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:921
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1320
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1342
+#: admin/inc/school/staff/general/dashboard/index.php:429
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:807
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:808
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2307
+#: public/inc/account/student/partials/payment_history.php:89
+msgid "Close"
+msgstr "Fermer"
+
+#. translators: %s: receipt number
+#: admin/inc/school/print/payment.php:21
+#: public/inc/account/student/partials/payment_history.php:87
+msgid "Payment Receipt - %s"
+msgstr "Reçu paiement - %s"
+
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:27
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:47
+#: public/inc/account/student/partials/payment_history.php:52
+msgid "Print"
+msgstr "Imprimer"
+
+#: admin/inc/school/print/invoice.php:159
+#: admin/inc/school/staff/accountant/invoices/index.php:41
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:12
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:15
+#: admin/inc/school/staff/groups/accounting.php:215
+#: public/inc/account/student/partials/navigation.php:12
+#: public/inc/account/student/partials/payment_history.php:32
+msgid "Payment History"
+msgstr "Historique de paiement"
+
+#: public/inc/widgets/WLSM_Login_Widget.php:63
+msgid "Student Login"
+msgstr "Connexion étudiant"
+
+#: public/inc/account/index.php:43 public/inc/widgets/WLSM_Login_Widget.php:54
+msgid "Logout"
+msgstr "Se déconnecter"
+
+#: public/inc/account/index.php:40 public/inc/widgets/WLSM_Login_Widget.php:51
+msgid "You are logged in."
+msgstr "Vous êtes connecté."
+
+#: public/inc/widgets/WLSM_Login_Widget.php:10
+msgid "Student Login Form"
+msgstr "Formulaire de connexion étudiant"
+
+#: public/inc/widgets/WLSM_Login_Widget.php:8
+msgid "Display login form for students."
+msgstr "Afficher formulaire de connexion pour les étudiants."
+
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:140
+msgid "Minimum Height (in pixels)"
+msgstr "Hauteur minimale (en pixels)"
+
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:136
+msgid "Maximum Height (in pixels)"
+msgstr "Hauteur maximale (en pixels)"
+
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:128
+msgid "Number of Notices"
+msgstr "Nombre de Notifications"
+
+#: public/inc/widgets/WLSM_Login_Widget.php:75
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:124
+msgid "Title"
+msgstr "Titre"
+
+#: admin/inc/manager/WLSM_School.php:29 admin/inc/manager/WLSM_School.php:232
+#: admin/inc/manager/WLSM_School.php:316 admin/inc/manager/WLSM_School.php:507
+#: admin/inc/manager/WLSM_School.php:982 public/inc/forms/fees.php:16
+#: public/inc/forms/inquiry.php:8 public/inc/noticeboard/index.php:9
+#: public/inc/WLSM_P_General.php:26
+msgid "School not found."
+msgstr "École introuvable."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1101
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1388
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1455
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1495
+#: public/inc/WLSM_P_Print.php:80
+msgid "Payment not found."
+msgstr "Paiement introuvable."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:425
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:750
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:170
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:873
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:936
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1070
+#: public/inc/WLSM_P_Print.php:21 public/inc/WLSM_P_Print.php:32
+#: public/inc/WLSM_P_Print.php:69
+msgid "Student not found."
+msgstr "Étudiant introuvable."
+
+#: public/inc/WLSM_P_Invoice.php:709
+msgid "Payment made successfully."
+msgstr "Paiement effectué avec succès."
+
+#: public/inc/WLSM_P_Invoice.php:658
+msgid "Unable to capture the payment."
+msgstr "Impossible de capturer le paiement."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1172
+#: public/inc/WLSM_P_Invoice.php:570
+msgid "Please select a valid payment method."
+msgstr "Veuillez sélectionner un mode de paiement valide."
+
+#. translators: %s: amount to pay
+#: public/inc/WLSM_P_Invoice.php:543
+msgid "Pay Amount %s using Stripe"
+msgstr "Payer le montant %s avec Stripe"
+
+#: public/inc/WLSM_P_Invoice.php:490
+msgid "Please select a payment method."
+msgstr "Veuillez choisir un moyen de paiement."
+
+#: public/inc/WLSM_P_Invoice.php:481
+msgid "Amount exceeded due amount."
+msgstr "Montant dépasse le montant dû."
+
+#: public/inc/WLSM_P_Invoice.php:478
+msgid "Please enter a valid amount."
+msgstr "Veuillez saisir un montant valide."
+
+#: public/inc/WLSM_P_Invoice.php:468
+msgid "Your school is currently inactive."
+msgstr "Votre école est actuellement inactive."
+
+#: public/inc/WLSM_P_Invoice.php:459 public/inc/WLSM_P_Invoice.php:612
+msgid "Invoice not found or already paid."
+msgstr "Invoice not found or already paid."
+
+#: public/inc/WLSM_P_Invoice.php:418
+msgid "No payment method available right now."
+msgstr "Aucun mode de paiement disponible pour le moment."
+
+#: public/inc/WLSM_P_Invoice.php:412
+msgid "Proceed to Pay"
+msgstr "Procéder au paiement"
+
+#: public/inc/WLSM_P_Invoice.php:394
+msgid "Select Payment Method"
+msgstr "Sélectionnez le mode de paiement"
+
+#: public/inc/WLSM_P_Invoice.php:383
+msgid "Enter amount to pay"
+msgstr "Entrez le montant à payer"
+
+#: public/inc/WLSM_P_Invoice.php:376
+msgid "Fees Due"
+msgstr "Frais dus"
+
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:80
+#: admin/inc/school/staff/accountant/invoices/save.php:168
+#: public/inc/WLSM_P_Invoice.php:324
+msgid "Invoice Detail"
+msgstr "Détail de la facture"
+
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:12
+#: public/inc/WLSM_P_Invoice.php:234 public/inc/WLSM_P_Invoice.php:348
+msgid "Student Detail"
+msgstr "Détail étudiant"
+
+#: public/inc/WLSM_P_Invoice.php:176
+msgid "There is no student with this name having pending fees."
+msgstr "Aucun étudiant portant ce nom n’a de frais en attente."
+
+#: public/inc/WLSM_P_Invoice.php:160
+msgid "View"
+msgstr "Voir"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:166
+#: admin/inc/school/staff/accountant/invoices/save.php:156
+#: admin/inc/school/staff/groups/accounting.php:206
+#: admin/inc/school/staff/groups/accounting.php:209 admin/inc/WLSM_Menu.php:158
+#: public/inc/account/student/partials/fee_invoices.php:9
+#: public/inc/account/student/partials/navigation.php:9
+#: public/inc/WLSM_P_Invoice.php:136
+msgid "Fee Invoices"
+msgstr "Factures de frais"
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:68
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1003
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:276
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:637
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1118
+#: public/inc/WLSM_P_Inquiry.php:60 public/inc/WLSM_P_Invoice.php:63
+msgid "Please select a class."
+msgstr "Veuillez sélectionner une classe."
+
+#: public/inc/WLSM_P_Inquiry.php:57 public/inc/WLSM_P_Invoice.php:43
+#: public/inc/WLSM_P_Invoice.php:50
+msgid "Please select a school."
+msgstr "Veuillez sélectionner une école."
+
+#: admin/inc/manager/WLSM_Session.php:207
+#: admin/inc/manager/WLSM_Session.php:327
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2635
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2925
+#: public/inc/WLSM_P_General.php:34 public/inc/WLSM_P_Invoice.php:39
+msgid "Session not found."
+msgstr "Session introuvable."
+
+#: includes/partials/pending_fee_invoices.php:65
+msgid "Pay Now"
+msgstr "Payez maintenant"
+
+#: admin/inc/school/print/invoice.php:140
+#: admin/inc/school/staff/accountant/invoices/index.php:195
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:92
+#: admin/inc/school/staff/class/notices/save.php:138
+#: admin/inc/school/staff/class/subjects/teachers.php:71
+#: admin/inc/school/staff/general/inquiries/index.php:33
+#: admin/inc/school/staff/general/inquiries/save.php:142
+#: admin/inc/school/staff/general/students/index.php:148
+#: admin/inc/school/staff/partials/save_staff.php:354
+#: admin/inc/school/staff/partials/save_student.php:501
+#: admin/inc/school/staff/partials/staff_records.php:34
+#: includes/partials/pending_fee_invoices.php:30
+#: includes/partials/student_invoices.php:30
+msgid "Status"
+msgstr "Statut"
+
+#: admin/inc/school/print/invoice.php:136
+#: admin/inc/school/staff/accountant/invoices/index.php:194
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:88
+#: includes/partials/pending_fee_invoices.php:29
+#: includes/partials/student_invoices.php:29
+msgid "Due"
+msgstr "Dû"
+
+#: admin/inc/school/print/invoice.php:128
+#: admin/inc/school/staff/accountant/invoices/index.php:192
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:76
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1316
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3169
+#: includes/partials/pending_fee_invoices.php:27
+#: includes/partials/student_invoices.php:27
+#: includes/partials/student_payments.php:58
+msgid "Payable"
+msgstr "Payable"
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:1316
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3169
+#: includes/partials/student_payments.php:58
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:38
+#: admin/inc/school/staff/general/dashboard/index.php:517
+#: includes/partials/student_payments.php:30
+#: public/inc/account/student/partials/payment_history.php:51
+msgid "Invoice"
+msgstr "Facture"
+
+#: admin/inc/school/print/invoice.php:168 admin/inc/school/print/payment.php:85
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:24
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:60
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:35
+#: admin/inc/school/staff/general/dashboard/index.php:515
+#: includes/partials/student_payments.php:28
+#: public/inc/account/student/partials/payment_history.php:49
+msgid "Transaction ID"
+msgstr "identifiant de transaction"
+
+#: admin/inc/school/print/invoice.php:120
+#: admin/inc/school/print/invoice.php:166 admin/inc/school/print/payment.php:77
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:98
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:22
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:40
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:33
+#: admin/inc/school/staff/accountant/invoices/save.php:199
+#: admin/inc/school/staff/general/dashboard/index.php:513
+#: includes/partials/student_payments.php:26
+#: public/inc/account/student/partials/payment_history.php:47
+msgid "Amount"
+msgstr "Montant"
+
+#: admin/inc/school/print/invoice.php:169 admin/inc/school/print/payment.php:89
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:25
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:36
+#: admin/inc/school/staff/class/notices/index.php:30
+#: admin/inc/school/staff/general/dashboard/index.php:414
+#: admin/inc/school/staff/general/dashboard/index.php:516
+#: admin/inc/school/staff/general/inquiries/index.php:31
+#: includes/helpers/WLSM_Email.php:163 includes/helpers/WLSM_Email.php:180
+#: includes/partials/student_payments.php:29
+#: public/inc/account/student/partials/payment_history.php:50
+msgid "Date"
+msgstr "Date"
+
+#: admin/inc/school/print/invoice.php:167 admin/inc/school/print/payment.php:81
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:23
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:46
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:34
+#: admin/inc/school/staff/general/dashboard/index.php:514
+#: includes/helpers/WLSM_Email.php:162 includes/helpers/WLSM_Email.php:179
+#: includes/partials/student_payments.php:27
+#: public/inc/account/student/partials/payment_history.php:48
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+#: includes/helpers/WLSM_Email.php:161 includes/helpers/WLSM_Email.php:178
+msgid "AMOUNT"
+msgstr "MONTANT"
+
+#: admin/inc/school/print/invoice.php:165 admin/inc/school/print/payment.php:73
+#: admin/inc/school/staff/accountant/invoices/invoice_payment_history.php:21
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:32
+#: admin/inc/school/staff/general/dashboard/index.php:512
+#: includes/helpers/WLSM_Email.php:160 includes/helpers/WLSM_Email.php:177
+#: includes/partials/student_payments.php:25
+#: public/inc/account/student/partials/payment_history.php:46
+msgid "Receipt Number"
+msgstr "Numéro de reçu"
+
+#: includes/helpers/WLSM_Email.php:146
+msgid "Invoice Due Date"
+msgstr "Échéance facture"
+
+#: includes/helpers/WLSM_Email.php:145
+msgid "Invoice Date Issued"
+msgstr "Date émission facture"
+
+#: includes/helpers/WLSM_Email.php:144
+msgid "Invoice Payable"
+msgstr "Facture à payer"
+
+#: includes/helpers/WLSM_Email.php:135
+msgid "Login Password"
+msgstr "Mot de passe"
+
+#: admin/inc/school/print/invoice.php:112
+#: admin/inc/school/print/partials/id_card.php:34
+#: admin/inc/school/print/payment.php:117
+#: admin/inc/school/staff/general/students/index.php:141
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1031
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2796
+#: admin/inc/school/staff/partials/save_student.php:328
+#: includes/helpers/WLSM_Email.php:130 includes/helpers/WLSM_Email.php:150
+#: includes/helpers/WLSM_Email.php:167 includes/helpers/WLSM_Email.php:184
+#: public/inc/account/student/dashboard.php:127
+#: public/inc/WLSM_P_Invoice.php:135 public/inc/WLSM_P_Invoice.php:254
+msgid "Roll Number"
+msgstr "Numéro de rôle"
+
+#: admin/inc/school/print/invoice.php:108
+#: admin/inc/school/print/partials/id_card.php:29
+#: admin/inc/school/print/payment.php:113
+#: admin/inc/school/staff/accountant/invoices/index.php:145
+#: admin/inc/school/staff/accountant/invoices/index.php:200
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:33
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:42
+#: admin/inc/school/staff/accountant/invoices/save.php:144
+#: admin/inc/school/staff/class/classes/sections.php:81
+#: admin/inc/school/staff/class/classes/sections.php:130
+#: admin/inc/school/staff/general/dashboard/index.php:468
+#: admin/inc/school/staff/general/dashboard/index.php:521
+#: admin/inc/school/staff/general/id-cards/index.php:54
+#: admin/inc/school/staff/general/students/index.php:113
+#: admin/inc/school/staff/general/students/index.php:140
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1027
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2795
+#: admin/inc/school/staff/partials/save_student.php:306
+#: includes/helpers/WLSM_Email.php:129 includes/helpers/WLSM_Email.php:149
+#: includes/helpers/WLSM_Email.php:166 includes/helpers/WLSM_Email.php:183
+#: public/inc/account/student/dashboard.php:123
+#: public/inc/WLSM_P_Invoice.php:134 public/inc/WLSM_P_Invoice.php:250
+#: public/inc/WLSM_P_Invoice.php:364
+msgid "Section"
+msgstr "Section"
+
+#: admin/inc/manager/classes/save.php:82
+#: admin/inc/manager/schools/classes.php:74
+#: admin/inc/school/print/invoice.php:104
+#: admin/inc/school/print/partials/id_card.php:25
+#: admin/inc/school/print/payment.php:109
+#: admin/inc/school/staff/accountant/invoices/index.php:132
+#: admin/inc/school/staff/accountant/invoices/index.php:199
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:29
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:41
+#: admin/inc/school/staff/accountant/invoices/save.php:131
+#: admin/inc/school/staff/class/classes/index.php:16
+#: admin/inc/school/staff/class/subjects/index.php:30
+#: admin/inc/school/staff/class/subjects/save.php:113
+#: admin/inc/school/staff/general/dashboard/index.php:409
+#: admin/inc/school/staff/general/dashboard/index.php:467
+#: admin/inc/school/staff/general/dashboard/index.php:520
+#: admin/inc/school/staff/general/id-cards/index.php:41
+#: admin/inc/school/staff/general/inquiries/index.php:26
+#: admin/inc/school/staff/general/inquiries/save.php:91
+#: admin/inc/school/staff/general/students/index.php:100
+#: admin/inc/school/staff/general/students/index.php:139
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1023
+#: admin/inc/school/staff/partials/save_student.php:288
+#: includes/helpers/WLSM_Email.php:128 includes/helpers/WLSM_Email.php:148
+#: includes/helpers/WLSM_Email.php:165 includes/helpers/WLSM_Email.php:182
+#: public/inc/account/student/dashboard.php:119 public/inc/forms/fees.php:68
+#: public/inc/forms/inquiry.php:39 public/inc/WLSM_P_Invoice.php:133
+#: public/inc/WLSM_P_Invoice.php:246 public/inc/WLSM_P_Invoice.php:360
+msgid "Class"
+msgstr "Classe"
+
+#: includes/helpers/WLSM_Email.php:10
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/helpers/WLSM_Email.php:9
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: includes/helpers/WLSM_Helper.php:243
+msgid "Annually"
+msgstr "Annuellement"
+
+#: includes/helpers/WLSM_Helper.php:242
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: includes/helpers/WLSM_Helper.php:241
+msgid "One Time"
+msgstr "Une fois"
+
+#: includes/helpers/WLSM_Helper.php:235
+msgid "Objective"
+msgstr "Objectif"
+
+#: includes/helpers/WLSM_Helper.php:234
+msgid "Subjective"
+msgstr "Subjectif"
+
+#: includes/helpers/WLSM_Helper.php:233
+msgid "Practical"
+msgstr "Pratique"
+
+#: includes/helpers/WLSM_Helper.php:232
+msgid "Theory"
+msgstr "Théorie"
+
+#: includes/helpers/WLSM_Helper.php:219
+msgid "Status (Paid, Unpaid, Partially Paid)"
+msgstr "Statut (payé, non payé, partiellement payé)"
+
+#: admin/inc/school/print/invoice.php:72 admin/inc/school/print/payment.php:61
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:92
+#: admin/inc/school/staff/accountant/invoices/index.php:191
+#: admin/inc/school/staff/accountant/invoices/save.php:177
+#: includes/helpers/WLSM_Email.php:142 includes/helpers/WLSM_Email.php:159
+#: includes/helpers/WLSM_Email.php:176 includes/helpers/WLSM_Helper.php:216
+#: includes/partials/pending_fee_invoices.php:26
+#: includes/partials/student_invoices.php:26 public/inc/WLSM_P_Invoice.php:328
+msgid "Invoice Title"
+msgstr "Titre de la facture"
+
+#: admin/inc/school/print/invoice.php:76
+#: admin/inc/school/staff/accountant/invoices/index.php:190
+#: includes/helpers/WLSM_Email.php:143 includes/helpers/WLSM_Helper.php:215
+#: includes/partials/pending_fee_invoices.php:25
+#: includes/partials/student_invoices.php:25 public/inc/WLSM_P_Invoice.php:332
+msgid "Invoice Number"
+msgstr "Numéro facture"
+
+#: admin/inc/school/staff/general/students/index.php:144
+#: admin/inc/school/staff/partials/save_staff.php:311
+#: admin/inc/school/staff/partials/save_staff.php:335
+#: admin/inc/school/staff/partials/save_student.php:458
+#: admin/inc/school/staff/partials/save_student.php:482
+#: admin/inc/school/staff/partials/staff_records.php:31
+#: includes/helpers/WLSM_Helper.php:206
+msgid "Login Email"
+msgstr "Login e-mail"
+
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:53
+#: admin/inc/school/staff/general/students/index.php:143
+#: admin/inc/school/staff/partials/save_student.php:373
+#: includes/helpers/WLSM_Helper.php:205 includes/helpers/WLSM_Helper.php:226
+msgid "Father Phone"
+msgstr "Téléphone du père"
+
+#: admin/inc/school/print/invoice.php:116
+#: admin/inc/school/print/partials/id_card.php:38
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:49
+#: admin/inc/school/staff/general/students/index.php:142
+#: admin/inc/school/staff/partials/save_student.php:367
+#: includes/helpers/WLSM_Helper.php:204 includes/helpers/WLSM_Helper.php:225
+#: public/inc/account/student/dashboard.php:131
+msgid "Father Name"
+msgstr "Nom du père"
+
+#: admin/inc/manager/schools/save.php:89 admin/inc/school/print/invoice.php:100
+#: admin/inc/school/print/partials/id_card.php:46
+#: admin/inc/school/print/payment.php:105
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:45
+#: admin/inc/school/staff/general/dashboard/index.php:412
+#: admin/inc/school/staff/general/inquiries/index.php:29
+#: admin/inc/school/staff/general/inquiries/save.php:110
+#: admin/inc/school/staff/general/students/index.php:138
+#: admin/inc/school/staff/partials/save_staff.php:170
+#: admin/inc/school/staff/partials/save_student.php:261
+#: admin/inc/school/staff/partials/staff_records.php:27
+#: includes/helpers/WLSM_Helper.php:203 includes/helpers/WLSM_Helper.php:224
+#: public/inc/forms/inquiry.php:88
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/inc/manager/schools/save.php:84 admin/inc/school/print/invoice.php:96
+#: admin/inc/school/print/partials/id_card.php:42
+#: admin/inc/school/print/payment.php:101
+#: admin/inc/school/staff/accountant/invoices/index.php:198
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:41
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:44
+#: admin/inc/school/staff/class/subjects/teachers.php:69
+#: admin/inc/school/staff/general/dashboard/index.php:411
+#: admin/inc/school/staff/general/dashboard/index.php:522
+#: admin/inc/school/staff/general/inquiries/index.php:28
+#: admin/inc/school/staff/general/inquiries/save.php:104
+#: admin/inc/school/staff/general/students/index.php:137
+#: admin/inc/school/staff/partials/save_staff.php:163
+#: admin/inc/school/staff/partials/save_student.php:254
+#: admin/inc/school/staff/partials/staff_records.php:26
+#: includes/helpers/WLSM_Helper.php:202 includes/helpers/WLSM_Helper.php:223
+#: public/inc/forms/inquiry.php:78
+msgid "Phone"
+msgstr "Téléphone"
+
+#: admin/inc/school/staff/class/subjects/teachers.php:68
+#: admin/inc/school/staff/general/dashboard/index.php:410
+#: admin/inc/school/staff/general/inquiries/index.php:27
+#: admin/inc/school/staff/general/inquiries/save.php:85
+#: admin/inc/school/staff/partials/save_staff.php:120
+#: admin/inc/school/staff/partials/staff_records.php:25
+#: includes/helpers/WLSM_Helper.php:201
+#: public/inc/account/student/dashboard.php:107 public/inc/forms/fees.php:86
+#: public/inc/forms/inquiry.php:56 public/inc/WLSM_P_Invoice.php:131
+msgid "Name"
+msgstr "Nom"
+
+#: includes/helpers/WLSM_Helper.php:194
+msgid "AB-"
+msgstr "AB-"
+
+#: includes/helpers/WLSM_Helper.php:193
+msgid "B-"
+msgstr "B-"
+
+#: includes/helpers/WLSM_Helper.php:192
+msgid "A-"
+msgstr "A-"
+
+#: includes/helpers/WLSM_Helper.php:191
+msgid "O-"
+msgstr "O-"
+
+#: includes/helpers/WLSM_Helper.php:181
+msgid "Female"
+msgstr "Femme"
+
+#: includes/helpers/WLSM_Helper.php:180
+msgid "Male"
+msgstr "Masculin"
+
+#: includes/helpers/WLSM_M_Invoice.php:154
+msgid "Stripe"
+msgstr "Stripe"
+
+#: includes/helpers/WLSM_M_Invoice.php:143
+#: includes/helpers/WLSM_M_Invoice.php:153
+msgid "Demand Draft"
+msgstr "Projet de demande"
+
+#: includes/helpers/WLSM_M_Invoice.php:142
+#: includes/helpers/WLSM_M_Invoice.php:152
+msgid "Bank Transfer"
+msgstr "Virement"
+
+#: includes/helpers/WLSM_M_Invoice.php:141
+#: includes/helpers/WLSM_M_Invoice.php:151
+msgid "Card"
+msgstr "Carte"
+
+#: includes/helpers/WLSM_M_Invoice.php:140
+#: includes/helpers/WLSM_M_Invoice.php:150
+msgid "Cheque"
+msgstr "Chèque"
+
+#: includes/helpers/WLSM_M_Invoice.php:139
+#: includes/helpers/WLSM_M_Invoice.php:149
+msgid "Cash"
+msgstr "En espèces"
+
+#: includes/helpers/WLSM_M_Invoice.php:16
+msgid "Partially Paid"
+msgstr "Partiellement payé"
+
+#: includes/helpers/WLSM_M_Invoice.php:15
+msgid "Unpaid"
+msgstr "Non payé"
+
+#: admin/inc/school/print/invoice.php:132
+#: admin/inc/school/staff/accountant/invoices/index.php:193
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:80
+#: includes/helpers/WLSM_M_Invoice.php:14
+#: includes/partials/pending_fee_invoices.php:28
+#: includes/partials/student_invoices.php:28
+msgid "Paid"
+msgstr "Payé"
+
+#: includes/helpers/staff/WLSM_M_Staff_Accountant.php:339
+msgid "No"
+msgstr "Non"
+
+#: includes/helpers/staff/WLSM_M_Staff_Accountant.php:337
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/helpers/staff/WLSM_M_Staff_Class.php:387
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/helpers/staff/WLSM_M_Staff_Class.php:327
+msgid "URL"
+msgstr "URL"
+
+#: admin/inc/school/staff/class/notices/save.php:118
+#: includes/helpers/staff/WLSM_M_Staff_Class.php:323
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+#: includes/helpers/staff/WLSM_M_Staff_Class.php:319
+msgid "None"
+msgstr "Aucun"
+
+#: includes/helpers/WLSM_M_Role.php:110
+msgid "Manage Settings"
+msgstr "Gérer les paramètres"
+
+#: includes/helpers/WLSM_M_Role.php:109
+msgid "Delete Payments"
+msgstr "Supprimer des paiements"
+
+#: includes/helpers/WLSM_M_Role.php:108
+msgid "Manage Invoices"
+msgstr "Gérer les factures"
+
+#: includes/helpers/WLSM_M_Role.php:106
+msgid "Manage Subjects"
+msgstr "Gérer les sujets"
+
+#: includes/helpers/WLSM_M_Role.php:105
+msgid "Manage Classes & Sections"
+msgstr "Gérer classes et sections"
+
+#: admin/inc/school/staff/general/promote/index.php:25
+#: admin/inc/school/staff/groups/student.php:68
+#: includes/helpers/WLSM_M_Role.php:104
+msgid "Student Promotion"
+msgstr "Promotion étudiant"
+
+#: includes/helpers/WLSM_M_Role.php:102
+msgid "Manage Roles"
+msgstr "Gérer les rôles"
+
+#: includes/helpers/WLSM_M_Role.php:100
+msgid "Manage Students"
+msgstr "Gérer les étudiants"
+
+#: includes/helpers/WLSM_M_Role.php:99
+msgid "Manage Admissions"
+msgstr "Gérer les admissions"
+
+#: includes/helpers/WLSM_M_Role.php:98
+msgid "Manage Inquiries"
+msgstr "Gérer les demandes"
+
+#: admin/inc/school/staff/general/employees/index.php:12
+#: admin/inc/school/staff/groups/administrator.php:102
+#: admin/inc/WLSM_Menu.php:142 includes/helpers/WLSM_M_Role.php:67
+msgid "Staff"
+msgstr "Personnel"
+
+#: includes/helpers/WLSM_M_Role.php:66
+msgid "Admin"
+msgstr "Administrateur"
+
+#: includes/helpers/staff/WLSM_M_Staff_Class.php:306
+#: includes/helpers/staff/WLSM_M_Staff_General.php:407
+#: includes/helpers/WLSM_M_School.php:195
+msgid "Inactive"
+msgstr "Inactive"
+
+#: includes/helpers/staff/WLSM_M_Staff_Class.php:302
+#: includes/helpers/staff/WLSM_M_Staff_General.php:403
+#: includes/helpers/WLSM_M_School.php:191
+msgid "Active"
+msgstr "Active"
+
+#: includes/helpers/WLSM_M_Admin.php:44
+msgid "Super Admin"
+msgstr "Super administrateur"
+
+#. Author URI of the plugin
+msgid "https://weblizar.com"
+msgstr "https://weblizar.com"
+
+#. Author of the plugin
+msgid "Weblizar"
+msgstr "Weblizar"
+
+#. translators: %s: invoice number
+#: admin/inc/school/print/invoice.php:56
+msgid "<span class=\"wlsm-font-bold\">Invoice No.</span> %s"
+msgstr "<span class=\"wlsm-font-bold\">Facture No.</span> %s"
+
+#. translators: %s: receipt number
+#: admin/inc/school/print/payment.php:45
+msgid "<span class=\"wlsm-font-bold\">Receipt No.</span> %s"
+msgstr "<span class=\"wlsm-font-bold\">Reçu No.</span> %s"
+
+#: admin/inc/manager/WLSM_Setting.php:46
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3313
+msgid "General settings saved."
+msgstr "Paramètres généraux enregistrés."
+
+#: admin/inc/manager/classes/index.php:28
+msgid "Class Name"
+msgstr "Nom de classe"
+
+#: admin/inc/manager/classes/index.php:15
+#: admin/inc/manager/schools/classes.php:98 admin/inc/WLSM_Menu.php:16
+msgid "Classes"
+msgstr "Classes"
+
+#: admin/inc/manager/classes/save.php:94
+msgid "Update Class"
+msgstr "Mettre à jour la classe"
+
+#: admin/inc/manager/classes/save.php:83
+msgid "Enter class label"
+msgstr "Entrez libellé de la classe"
+
+#: admin/inc/manager/classes/index.php:20 admin/inc/manager/classes/save.php:49
+#: admin/inc/manager/classes/save.php:99
+msgid "Add New Class"
+msgstr "Ajouter nouvelle classe"
+
+#: admin/inc/manager/dashboard/index.php:56
+#: admin/inc/manager/dashboard/index.php:72
+#: admin/inc/manager/schools/classes.php:85
+#: admin/inc/manager/schools/classes.php:113
+#: admin/inc/school/staff/general/dashboard/index.php:158
+msgid "Assign Classes"
+msgstr "Attribuer des classes"
+
+#: admin/inc/manager/schools/classes.php:69
+msgid "Classes Assigned"
+msgstr "Classes attribuées"
+
+#. translators: %s: number of students
+#: public/inc/WLSM_P_Invoice.php:119
+msgid "%d Student found."
+msgid_plural "%d Students found."
+msgstr[0] "%d élève trouvé"
+msgstr[1] "%d élèves trouvé."
+
+#: public/inc/WLSM_P_Invoice.php:82
+msgid "Please provide at least 2 characters."
+msgstr "Veuillez saisir au moins 2 caractères."
+
+#: public/inc/WLSM_P_Invoice.php:79
+msgid "Please specify the name."
+msgstr "Veuillez indiquer le nom."
+
+#: admin/inc/manager/WLSM_Class.php:123 admin/inc/manager/WLSM_Class.php:223
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:257
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:395
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1007
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1042
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:40
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:96
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:320
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1124
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2426
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2646
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2663
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2936
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2953
+#: public/inc/WLSM_P_Inquiry.php:64 public/inc/WLSM_P_Invoice.php:67
+msgid "Class not found."
+msgstr "Classe introuvable."
+
+#. translators: %s: number of invoices
+#: includes/partials/student_invoices.php:13
+msgid "%d fee invoice found."
+msgid_plural "%d fee invoices found."
+msgstr[0] "%d facture de frais trouvée."
+msgstr[1] "%d factures de frais trouvées."
+
+#. translators: %s: number of payments
+#: includes/partials/student_payments.php:13
+msgid "%d payment found."
+msgid_plural "%d payments found."
+msgstr[0] "%d paiement trouvé."
+msgstr[1] "%d paiements trouvés."
+
+#: admin/inc/school/print/partials/school_header.php:44
+msgid "Address:"
+msgstr "Adresse"
+
+#: admin/inc/school/print/partials/school_header.php:35
+msgid "Email:"
+msgstr "E-mail"
+
+#: admin/inc/school/print/payment.php:125
+msgid "Father Phone:"
+msgstr "Téléphone du père"
+
+#: admin/inc/school/print/payment.php:121
+msgid "Father Name:"
+msgstr "Nom du père"
+
+#: admin/inc/school/staff/general/promote/index.php:40
+msgid "Promoting student from the present class to the next class will create an enrollment of that student for the next session."
+msgstr "La promotion de étudiant de la classe actuelle à la classe suivante créera une inscription de cet étudiant pour la prochaine session."
+
+#: admin/inc/school/staff/general/dashboard/index.php:152
+msgid "School Dashboard"
+msgstr "Tableau de bord de l’école"
+
+#: admin/inc/school/staff/general/settings/email-templates/student_admission.php:13
+msgid "Student Admission Email Template"
+msgstr "Modèle d’e-mail d’admission des étudiants"
+
+#: admin/inc/school/staff/general/settings/email-templates/invoice_generated.php:13
+msgid "Invoice Generated Email Template"
+msgstr "Modèle d’e-mail généré par facture"
+
+#: admin/inc/school/staff/general/settings/email-templates/online_fee_submission.php:13
+msgid "Online Fee Submission Email Template"
+msgstr "Modèle d’e-mail de soumission de frais en ligne"
+
+#: admin/inc/school/staff/general/settings/email-templates/invoice_generated.php:69
+#: admin/inc/school/staff/general/settings/email-templates/offline_fee_submission.php:69
+#: admin/inc/school/staff/general/settings/email-templates/online_fee_submission.php:69
+#: admin/inc/school/staff/general/settings/email-templates/student_admission.php:69
+msgid "Email Body"
+msgstr "Corps de l’e-mail"
+
+#: admin/inc/school/staff/general/settings/email-templates/offline_fee_submission.php:13
+msgid "Offline Fee Submission Email Template"
+msgstr "Modèle d’e-mail de soumission de frais hors ligne"
+
+#: admin/inc/school/staff/general/settings/index.php:47
+msgid "Email Templates"
+msgstr "Modèles d’e-mails"
+
+#: admin/inc/school/staff/general/settings/general/index.php:24
+msgid "Upload School Logo"
+msgstr "Télécharger le logo de l’école"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:110
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:114
+msgid "SMTP Username"
+msgstr "Nom d’utilisateur SMTP"
+
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:71
+#: admin/inc/school/staff/general/settings/email-carrier/index.php:75
+msgid "From Email"
+msgstr "À partir de l’e-mail"
+
+#: admin/inc/school/staff/general/settings/email-templates/invoice_generated.php:56
+#: admin/inc/school/staff/general/settings/email-templates/invoice_generated.php:60
+#: admin/inc/school/staff/general/settings/email-templates/offline_fee_submission.php:56
+#: admin/inc/school/staff/general/settings/email-templates/offline_fee_submission.php:60
+#: admin/inc/school/staff/general/settings/email-templates/online_fee_submission.php:56
+#: admin/inc/school/staff/general/settings/email-templates/online_fee_submission.php:60
+#: admin/inc/school/staff/general/settings/email-templates/student_admission.php:56
+#: admin/inc/school/staff/general/settings/email-templates/student_admission.php:60
+msgid "Email Subject"
+msgstr "Objet de l’e-mail"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2989
+msgid "Invalid selection of students or new classes."
+msgstr "Sélection non valide d’étudiants ou de nouvelles classes"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2871
+msgid "There is no student in this class or students were already promoted."
+msgstr "Il n’y a pas d’élève dans cette classe ou les étudiants ont déjà été promus."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2861
+msgid "Promote Student"
+msgid_plural "Promote Students"
+msgstr[0] "Promouvoir l’étudiant "
+msgstr[1] "Promouvoir les étudiants"
+
+#. translators: %s: class name
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2823
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2829
+msgid "Enroll to Class - %s"
+msgstr "S’inscrire à la classe - %s"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2702
+msgid "Select sections mapping of old class to the new class."
+msgstr "Sélectionnez les sections mappant l’ancienne classe à la nouvelle classe"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1951
+msgid "This role is reserved for school administrators."
+msgstr "Ce rôle est réservé aux administrateurs de école"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1608
+msgid "The user already has a staff record."
+msgstr "L’utilisateur dispose déjà d’un dossier personnel."
+
+#. translators: %s: session label
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:813
+msgid "This will delete student record for the session %s."
+msgstr "Cela supprimera l’enregistrement de l’élève pour la session %s."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:531
+msgid "Edit Student"
+msgstr "Modifier l’étudiant"
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:436
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1597
+msgid "User is a multi-school administrator."
+msgstr "L’utilisateur est un administrateur multi-écoles."
+
+#: admin/inc/school/staff/accountant/invoices/new_payment.php:62
+msgid "Enter transaction ID"
+msgstr "Entrez l’ID de transaction"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:222
+msgid "Enter due date"
+msgstr "Entrez la date d’échéance"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:216
+msgid "Enter date issued"
+msgstr "Entrez la date d’émission"
+
+#: admin/inc/school/staff/accountant/invoices/save.php:184
+msgid "Allow Partial Payments?"
+msgstr "Autoriser paiements partiels"
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:408
+msgid "Please select either single invoice or bulk invoice option."
+msgstr "Veuillez sélectionner l’option facture unique ou facture groupée."
+
+#: admin/inc/school/staff/partials/save_student.php:402
+msgid "Enter mother occupation"
+msgstr "Entrez dans la profession de mère"
+
+#: admin/inc/school/staff/partials/save_student.php:323
+msgid "Enter admission number"
+msgstr "Entrez le numéro d’admission"
+
+#: admin/inc/school/staff/partials/save_student.php:283
+msgid "Enter admission date"
+msgstr "Entrez la date d’admission"
+
+#: admin/inc/school/staff/partials/save_student.php:273
+msgid "Admission Detail"
+msgstr "Détails de l’admission"
+
+#: admin/inc/school/staff/partials/save_student.php:263
+msgid "Enter student email address"
+msgstr "Entrez l’adresse e-mail de l’étudiant"
+
+#: admin/inc/school/staff/partials/save_student.php:249
+msgid "Enter student address"
+msgstr "Entrez l’adresse de l’étudiant"
+
+#: admin/inc/school/staff/partials/header.php:26
+msgid "Default session is not set. Please contact the administrator."
+msgstr "La session par défaut n’est pas définie. Veuillez contacter l’administrateur."
+
+#: admin/inc/school/staff/partials/save_staff.php:190
+#: admin/inc/school/staff/partials/staff_records.php:33
+msgid "Joining Date"
+msgstr "Date d’adhésion"
+
+#: admin/inc/manager/WLSM_Session.php:250
+msgid "Session already exists with this label, start date and end date."
+msgstr "La session existe déjà avec cette étiquette, la date de début et la date de fin."
+
+#: admin/inc/manager/WLSM_Session.php:231
+msgid "Please provide start date of a session."
+msgstr "Veuillez indiquer la date de début d’une session."
+
+#: admin/inc/manager/dashboard/index.php:75
+msgid "Edit School"
+msgstr "Modifier l’école"
+
+#: admin/inc/manager/schools/save.php:103
+msgid "Update School"
+msgstr "Mettre à jour l’école"
+
+#: admin/inc/manager/schools/save.php:95
+msgid "Enter school address"
+msgstr "Entrez l’adresse de l’école"
+
+#: admin/inc/manager/schools/save.php:90
+msgid "Enter school email"
+msgstr "Entrez l’adresse e-mail de l’école"
+
+#: admin/inc/manager/schools/save.php:85
+msgid "Enter school phone number"
+msgstr "Entrez le numéro de téléphone de l’école"
+
+#: admin/inc/manager/schools/save.php:80
+msgid "Enter school name"
+msgstr "Entrez le nom de l’école"
+
+#: admin/inc/manager/WLSM_School.php:604 admin/inc/manager/WLSM_School.php:866
+msgid "User is already a multi-school administrator."
+msgstr "L’utilisateur est déjà un administrateur multi-écoles."
+
+#. translators: %s: role
+#: admin/inc/manager/WLSM_School.php:585 admin/inc/manager/WLSM_School.php:861
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:431
+msgid "User already exists with this username having a role of \"%s\"."
+msgstr "L’utilisateur existe déjà avec ce nom d’utilisateur ayant un rôle de \"%s\"."
+
+#: admin/inc/manager/WLSM_School.php:573 admin/inc/manager/WLSM_School.php:849
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:409
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1591
+msgid "Username does not exist."
+msgstr "Le nom d’utilisateur n’existe pas."
+
+#: admin/inc/manager/WLSM_School.php:538 admin/inc/manager/WLSM_School.php:795
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:369
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1548
+msgid "Please provide username."
+msgstr "Veuillez fournir votre nom d’utilisateur."
+
+#: admin/inc/manager/WLSM_School.php:529 admin/inc/manager/WLSM_School.php:786
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:360
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1539
+msgid "Please provide existing username."
+msgstr "Veuillez fournir le nom d’utilisateur existant."
+
+#: admin/inc/manager/WLSM_School.php:472
+msgid "This will remove this admin from the school."
+msgstr "Cela supprimera cet administrateur de l’école."
+
+#: admin/inc/manager/WLSM_School.php:258
+msgid "Class removed from the school successfully."
+msgstr "Classe retirée de l’école avec succès."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3637
+msgid "Email templates saved."
+msgstr "Modèles d’e-mails enregistrés."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:3233
+msgid "Please provide school logo in JPG, JPEG or PNG format."
+msgstr "Veuillez fournir le logo de l’école au format JPG, JPEG ou PNG."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:422
+msgid "The user already has a student record."
+msgstr "L’utilisateur dispose déjà d’un dossier étudiant."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:397
+msgid "Student updated successfully."
+msgstr "Étudiant mis à jour avec succès."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:339
+msgid "Admission number already exists in this session."
+msgstr "Le numéro d’admission existe déjà dans cette session."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:266
+msgid "Please provide admission number."
+msgstr "Veuillez fournir le numéro d’admission."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:261
+msgid "Please provide admission date."
+msgstr "Veuillez indiquer la date d’admission."
+
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:226
+msgid "Please specify student name."
+msgstr "Veuillez préciser le nom de l’étudiant."
+
+#: admin/inc/school/staff/class/notices/index.php:29
+msgid "Is Active"
+msgstr "Est actif"
+
+#: admin/inc/school/staff/class/notices/save.php:109
+msgid "Enter notice URL"
+msgstr "Entrez l’URL de l’avis"
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1318
+msgid "Teacher removed from the subject successfully."
+msgstr "Enseignant retiré de la matière avec succès."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:1299
+msgid "Teacher is not assigned to this subject."
+msgstr "L’enseignant n’est pas affecté à cette matière."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:688
+msgid "This file type is not allowed."
+msgstr "Ce type de fichier n’est pas autorisé."
+
+#: admin/inc/school/staff/class/WLSM_Staff_Class.php:197
+msgid "This will remove section from the class. All student records in this section of all sessions will be moved to the default section."
+msgstr "Cela supprimera la section de la classe. Tous les dossiers des étudiants de cette section de toutes les sessions seront déplacés vers la section par défaut."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:395
+msgid "Please provide date issued."
+msgstr "Veuillez fournir la date d’émission."
+
+#: admin/inc/school/staff/accountant/WLSM_Staff_Accountant.php:391
+msgid "Invoice due date must be greater than issued date."
+msgstr "La date d’échéance de la facture doit être supérieure à la date d’émission."
+
+#: admin/inc/school/staff/partials/save_staff.php:192
+msgid "Enter joining date"
+msgstr "Entrez la date d’adhésion"
+
+#: admin/inc/school/staff/partials/save_staff.php:158
+msgid "Enter address"
+msgstr "Entrez l’adresse"
+
+#: admin/inc/school/staff/partials/save_student.php:532
+msgid "Update Student"
+msgstr "Mettre à jour l’étudiant"
+
+#: admin/inc/school/staff/partials/save_staff.php:330
+#: admin/inc/school/staff/partials/save_student.php:477
+msgid "Enter username"
+msgstr "Entrez le nom d’utilisateur"
+
+#: admin/inc/school/staff/class/subjects/teachers.php:70
+#: admin/inc/school/staff/partials/save_staff.php:328
+#: admin/inc/school/staff/partials/save_student.php:475
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+#: admin/inc/school/staff/partials/save_staff.php:313
+#: admin/inc/school/staff/partials/save_staff.php:337
+#: admin/inc/school/staff/partials/save_student.php:460
+#: admin/inc/school/staff/partials/save_student.php:484
+msgid "Enter login email"
+msgstr "Entrez l’adresse e-mail de connexion"
+
+#: admin/inc/school/staff/partials/save_staff.php:305
+#: admin/inc/school/staff/partials/save_student.php:452
+msgid "Enter existing username"
+msgstr "Entrez le nom d’utilisateur existant"
+
+#: admin/inc/school/staff/partials/save_staff.php:300
+#: admin/inc/school/staff/partials/save_student.php:447
+msgid "Usernames cannot be changed."
+msgstr "Les noms d’utilisateur ne peuvent pas être modifiés."
+
+#: admin/inc/school/staff/partials/save_staff.php:296
+#: admin/inc/school/staff/partials/save_student.php:443
+msgid "Existing Username"
+msgstr "Nom d’utilisateur existant"
+
+#: admin/inc/manager/dashboard/index.php:62
+#: admin/inc/school/schools-assigned.php:49
+msgid "Status:"
+msgstr "État :"
+
+#: admin/inc/manager/dashboard/index.php:46
+#: admin/inc/school/print/partials/school_header.php:27
+#: admin/inc/school/schools-assigned.php:41
+msgid "Phone:"
+msgstr "Téléphone :"
+
+#: admin/inc/manager/settings/index.php:226
+msgid "Reset Plugin!"
+msgstr "Réinitialiser l’extension"
+
+#: admin/inc/manager/settings/index.php:47
+#: admin/inc/manager/settings/index.php:228
+msgid "Reset Plugin"
+msgstr "Réinitialiser l’extension"
+
+#: admin/inc/school/staff/class/subjects/teachers.php:95
+msgid "Type 1 or more characters... then click to select"
+msgstr "Tapez 1 ou plusieurs caractères... puis cliquez pour sélectionner"
+
+#: admin/inc/manager/WLSM_School.php:239
+msgid "Class not found in the school."
+msgstr "Classe introuvable dans l’école."
+
+#: admin/inc/manager/WLSM_School.php:196
+msgid "This will remove this class from the school. All student records associated with this class will be removed."
+msgstr "Cela supprimera cette classe de l’école. Tous les dossiers d’élèves associés à ce cours seront supprimés."
+
+#: admin/inc/manager/WLSM_School.php:94
+msgid "School updated successfully."
+msgstr "École mise à jour avec succès."
+
+#: admin/inc/manager/WLSM_School.php:64
+msgid "School name already exists."
+msgstr "Le nom de l’école existe déjà."
+
+#: admin/inc/manager/WLSM_School.php:41
+msgid "Please provide school name."
+msgstr "Veuillez fournir le nom de l’école."
+
+#: admin/inc/school/staff/partials/save_student.php:185
+#: public/inc/forms/fees.php:90
+msgid "Enter student name"
+msgstr "Entrez le nom de l’étudiant"
+
+#: public/inc/forms/inquiry.php:114
+msgid "I agree with GDPR compliant terms & conditions."
+msgstr "J’accepte les termes et conditions conformes au RGPD."
+
+#: public/inc/forms/inquiry.php:21
+msgid "Admission Inquiry"
+msgstr "Demande d’admission"
+
+#: public/inc/account/no_record.php:6
+msgid "There is no student record."
+msgstr "Il n’y a pas de dossier d’étudiant."
+
+#: public/inc/widgets/WLSM_Login_Widget.php:83
+msgid "Enter URL to redirect user after logout"
+msgstr "Entrez l’URL pour rediriger l’utilisateur après la déconnexion"
+
+#: public/inc/widgets/WLSM_Login_Widget.php:79
+msgid "Enter URL to redirect user after login"
+msgstr "Entrez l’URL pour rediriger l’utilisateur après la connexion"
+
+#: public/inc/account/index.php:19 public/inc/widgets/WLSM_Login_Widget.php:42
+msgid "Lost your password?"
+msgstr "Mot de passe oublié ?"
+
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:132
+msgid "Animation Interval (in seconds)"
+msgstr "Intervalle d’animation (en secondes)"
+
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:13
+msgid "School Noticeboard"
+msgstr "Tableau d’affichage de l’école"
+
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:11
+msgid "Display school notices."
+msgstr "Afficher les avis scolaires."
+
+#: public/inc/WLSM_P_Invoice.php:534
+msgid "Stripe payment method is currently unavailable."
+msgstr "Le mode de paiement Stripe n’est actuellement pas disponible."
+
+#: includes/partials/student_invoices.php:86
+msgid "There is no fee invoice."
+msgstr "Il n’y a pas de facture de frais."
+
+#: includes/partials/noticeboard.php:84
+#: public/inc/account/student/dashboard.php:90
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:95
+msgid "There is no notice."
+msgstr "Il n’y a pas d’avis"
+
+#: admin/inc/school/staff/class/notices/index.php:14
+#: admin/inc/school/staff/groups/academic.php:59
+#: admin/inc/school/staff/groups/academic.php:62 admin/inc/WLSM_Menu.php:86
+#: includes/partials/noticeboard.php:20
+#: public/inc/account/student/dashboard.php:29
+#: public/inc/account/student/partials/navigation.php:15
+#: public/inc/widgets/WLSM_Noticeboard_Widget.php:108
+msgid "Noticeboard"
+msgstr "Tableau d’affichage"
+
+#: includes/partials/pending_fee_invoices.php:91
+msgid "There is no pending fee."
+msgstr "Il n’y a pas de frais en attente."
+
+#. translators: %s: number of pending invoices
+#: includes/partials/pending_fee_invoices.php:13
+msgid "%d Pending fee invoice found."
+msgid_plural "%d Pending fee invoices found."
+msgstr[0] "%d Facture de frais en attente trouvée."
+msgstr[1] "%d Factures de frais en attente trouvées."
+
+#: includes/partials/student_payments.php:76
+msgid "There is no payment."
+msgstr "Il n’y a pas de paiement."
+
+#: admin/inc/manager/schools/save.php:79 includes/helpers/WLSM_Email.php:136
+#: includes/helpers/WLSM_Email.php:153 includes/helpers/WLSM_Email.php:170
+#: includes/helpers/WLSM_Email.php:187
+msgid "School Name"
+msgstr "Nom de l’école"
+
+#: includes/helpers/WLSM_Email.php:134
+msgid "Login Email Number"
+msgstr "Numéro d’e-mail de connexion"
+
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:122
+#: admin/inc/school/staff/accountant/invoices/index.php:197
+#: admin/inc/school/staff/accountant/invoices/save.php:220
+#: includes/helpers/WLSM_Helper.php:218
+#: includes/partials/pending_fee_invoices.php:32
+#: includes/partials/student_invoices.php:32 public/inc/WLSM_P_Invoice.php:340
+msgid "Due Date"
+msgstr "Date d’échéance"
+
+#: admin/inc/school/print/invoice.php:88
+#: admin/inc/school/print/partials/id_card.php:12
+#: admin/inc/school/print/payment.php:93
+#: admin/inc/school/staff/accountant/invoices/index.php:188
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:21
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:39
+#: admin/inc/school/staff/general/dashboard/index.php:465
+#: admin/inc/school/staff/general/dashboard/index.php:518
+#: admin/inc/school/staff/general/students/index.php:135
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1019
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2794
+#: admin/inc/school/staff/partials/save_student.php:183
+#: includes/helpers/WLSM_Email.php:127 includes/helpers/WLSM_Email.php:147
+#: includes/helpers/WLSM_Email.php:164 includes/helpers/WLSM_Email.php:181
+#: includes/helpers/WLSM_Helper.php:220 public/inc/WLSM_P_Invoice.php:238
+#: public/inc/WLSM_P_Invoice.php:352
+msgid "Student Name"
+msgstr "Nom de l’étudiant"
+
+#: admin/inc/school/staff/accountant/invoices/collect_payment.php:118
+#: admin/inc/school/staff/accountant/invoices/index.php:196
+#: admin/inc/school/staff/accountant/invoices/save.php:214
+#: includes/helpers/WLSM_Helper.php:217
+#: includes/partials/pending_fee_invoices.php:31
+#: includes/partials/student_invoices.php:31 public/inc/WLSM_P_Invoice.php:336
+msgid "Date Issued"
+msgstr "Date d’émission"
+
+#: admin/inc/school/staff/general/dashboard/index.php:470
+#: admin/inc/school/staff/general/students/index.php:146
+#: admin/inc/school/staff/partials/save_student.php:281
+#: includes/helpers/WLSM_Helper.php:208
+msgid "Admission Date"
+msgstr "Date d’admission"
+
+#: admin/inc/school/staff/general/students/index.php:145
+#: admin/inc/school/staff/partials/staff_records.php:32
+#: includes/helpers/WLSM_Email.php:133 includes/helpers/WLSM_Helper.php:207
+msgid "Login Username"
+msgstr "Nom d’utilisateur de connexion"
+
+#: admin/inc/school/staff/accountant/invoices/index.php:189
+#: admin/inc/school/staff/accountant/invoices/invoice_status.php:25
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:40
+#: admin/inc/school/staff/general/dashboard/index.php:469
+#: admin/inc/school/staff/general/dashboard/index.php:519
+#: admin/inc/school/staff/general/students/index.php:136
+#: admin/inc/school/staff/partials/save_student.php:321
+#: includes/helpers/WLSM_Email.php:132 includes/helpers/WLSM_Email.php:152
+#: includes/helpers/WLSM_Email.php:169 includes/helpers/WLSM_Email.php:186
+#: includes/helpers/WLSM_Helper.php:200 includes/helpers/WLSM_Helper.php:221
+msgid "Admission Number"
+msgstr "Numéro d’admission"
+
+#: admin/inc/school/print/invoice.php:92
+#: admin/inc/school/print/partials/id_card.php:16
+#: admin/inc/school/print/payment.php:97
+#: admin/inc/school/staff/accountant/invoices/index.php:201
+#: admin/inc/school/staff/accountant/invoices/payment_history.php:43
+#: admin/inc/school/staff/general/dashboard/index.php:466
+#: admin/inc/school/staff/general/students/index.php:147
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:1015
+#: admin/inc/school/staff/general/WLSM_Staff_General.php:2793
+#: includes/helpers/WLSM_Email.php:131 includes/helpers/WLSM_Email.php:151
+#: includes/helpers/WLSM_Email.php:168 includes/helpers/WLSM_Email.php:185
+#: includes/helpers/WLSM_Helper.php:209 includes/helpers/WLSM_Helper.php:222
+#: public/inc/account/student/dashboard.php:111
+#: public/inc/WLSM_P_Invoice.php:132 public/inc/WLSM_P_Invoice.php:242
+#: public/inc/WLSM_P_Invoice.php:356
+msgid "Enrollment Number"
+msgstr "Numéro d’inscription"
+
+#: includes/helpers/WLSM_M_Role.php:107
+msgid "Manage Noticeboard"
+msgstr "Gérer le tableau d’affichage"
+
+#: includes/helpers/WLSM_M_Role.php:103
+msgid "Add/Remove Staff"
+msgstr "Ajouter/supprimer du personnel"
+
+#: includes/helpers/WLSM_M_Role.php:101
+msgid "Add/Remove Admins"
+msgstr "Ajouter/Supprimer des administrateurs"
+
+#: includes/helpers/WLSM_M_Admin.php:46
+msgid "School Admin"
+msgstr "Administrateur de l’école"

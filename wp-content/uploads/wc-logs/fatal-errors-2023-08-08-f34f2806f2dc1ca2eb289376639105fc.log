@@ -1,0 +1,6 @@
+2023-08-08T14:02:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\monsite\wp-content\plugins\shopengine\widgets\product-category-lists\product-category-lists.php à la ligne 9
+
+2023-08-08T14:03:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\monsite\wp-includes\Requests\Transport\cURL.php à la ligne 484
+
+2023-08-08T14:22:09+00:00 CRITICAL Maximum execution time of 300 seconds exceeded dans C:\xampp\htdocs\monsite\wp-includes\Requests\Transport\cURL.php à la ligne 165
+

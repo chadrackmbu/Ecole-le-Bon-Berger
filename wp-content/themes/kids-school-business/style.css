@@ -1,0 +1,255 @@
+/**
+Theme Name: Kids School Business
+Theme URI: https://creativthemes.com/downloads/kids-school-business
+Author: creativthemes
+Author URI: https://creativthemes.com
+Version: 1.0
+Requires PHP: 5.6
+Tested up to: 5.8
+Requires at least: 5.1
+Template: kids-school
+Text Domain: kids-school-business
+Description: Kids School Business is a multipurpose and corporate theme developed specifically for all types of businesses like consulting financial adviser, medical, construction, tour, travels, interior design, agency, accountant, startup company, finance business , consulting firms, insurance, loan, tax help, investment firm etc. It is a child theme of Kids School wordpress theme.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: translation-ready, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, editor-style, right-sidebar, full-width-template, two-columns, grid-layout, custom-colors, custom-header, custom-logo, featured-image-header, blog, portfolio, entertainment
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*--------------------------------------------------------------
+# Wrapper
+--------------------------------------------------------------*/
+.wrapper {
+    width: 90%;
+    max-width: 1200px;
+}
+
+/*--------------------------------------------------------------
+# Front Page Sections
+--------------------------------------------------------------*/
+#featured-slider .entry-container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#featured-services .featured-service-item {
+    background-color: transparent;
+    border-radius: 0;
+    padding-bottom: 0;
+}
+
+#featured-services article:nth-child(1n) .icon-container a {
+    background-color: #0795fe;
+}
+
+#featured-services .read-more,
+.blog-posts-wrapper .read-more {
+    display: none;
+}
+
+#featured-services .section-title,
+#featured-gallery .section-title,
+#featured-team .section-title, 
+#featured-team .entry-title a, 
+#featured-testimonial .section-title, 
+#featured-testimonial .entry-title a, 
+#blog .section-title, 
+#blog .entry-title a {
+    color: #000;
+}
+
+#featured-team .entry-content,
+#featured-testimonial .entry-content,
+#blog .entry-content {
+    color: #666;
+}
+
+#featured-gallery .featured-gallery-item,
+.btn,
+.entry-meta .cat-links a {
+    border-radius: 0;
+}
+
+#featured-gallery .entry-title {
+    font-size: 20px;
+}
+
+#featured-team .featured-image {
+    padding: 150px 0;
+    border-radius: 0;
+}
+
+#featured-testimonial article:nth-child(1n) .featured-testimonial-item {
+    background-color: #fff;
+    border-radius: 0;
+}
+
+.blog-posts-wrapper .featured-image {
+    border-radius: 0;
+    padding: 130px 0;
+}
+
+/*--------------------------------------------------------------
+# Colors
+--------------------------------------------------------------*/
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+#top-bar,
+.menu-toggle:hover,
+.menu-toggle:focus,
+.pagination .page-numbers.current,
+.pagination .page-numbers:hover,
+.pagination .page-numbers:focus,
+.tags-links a,
+.entry-meta .cat-links a,
+.reply a,
+.btn,
+.slick-prev,
+.slick-next,
+.slick-dots li.slick-active button,
+#featured-gallery,
+#featured-classes .cat-links a,
+#featured-team .slick-arrow,
+#featured-testimonial,
+#secondary .widget_tag_cloud .tagcloud a:hover,
+#secondary .widget_tag_cloud .tagcloud a:focus,
+#colophon .widget_tag_cloud .tagcloud a:hover,
+#colophon .widget_tag_cloud .tagcloud a:focus,
+#colophon .widget_search form.search-form button.search-submit,
+.backtotop,
+.video-button i,
+#featured-classes .course-meta-data > div,
+#featured-classes .widget-footer a {
+    background-color: #0795fe;
+}
+
+.logged-in-as a,
+a,
+.main-navigation ul.nav-menu > li:hover > a,
+.main-navigation ul.nav-menu > li.focus > a,
+.main-navigation ul.nav-menu .current_page_item > a,
+.main-navigation ul.nav-menu .current-menu-item > a,
+.main-navigation ul.nav-menu .current_page_ancestor > a,
+.main-navigation ul.nav-menu .current-menu-ancestor > a,
+.post-navigation a:hover, 
+.posts-navigation a:hover,
+.post-navigation a:focus, 
+.posts-navigation a:focus,
+.pagination .page-numbers,
+.pagination .page-numbers.dots:hover,
+.pagination .page-numbers.dots:focus,
+.pagination .page-numbers.prev,
+.pagination .page-numbers.next,
+#secondary a:hover,
+#secondary a:focus,
+.page-header small,
+.post-categories a,
+.entry-meta .author:before,
+.comment-meta .url:hover,
+.comment-meta .url:focus,
+.comment-metadata a:hover,
+.comment-metadata a:focus,
+.comment-metadata a:hover time,
+.comment-metadata a:focus time,
+.section-title,
+.entry-title a:hover,
+.entry-title a:focus,
+.blog-posts-wrapper .sticky .post-item .entry-title a:hover,
+.blog-posts-wrapper .sticky .post-item .entry-title a:focus,
+#colophon a:hover,
+#colophon a:focus,
+.video-button a:hover i,
+.video-button a:focus i,
+#featured-team .entry-title a:hover,
+#featured-team .entry-title a:focus,
+#featured-testimonial .entry-title a:hover,
+#featured-testimonial .entry-title a:focus,
+#blog .entry-title a:hover,
+#blog .entry-title a:focus,
+.main-navigation ul.nav-menu > li:nth-child(1n):hover > a, 
+.main-navigation ul.nav-menu > li:nth-child(1n).focus > a {
+    color: #0795fe;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.widget_search form.search-form input[type="search"]:focus,
+.tags-links a,
+.reply a,
+.btn,
+#secondary .widget_tag_cloud .tagcloud a:hover,
+#secondary .widget_tag_cloud .tagcloud a:focus,
+#colophon .widget_tag_cloud .tagcloud a:hover,
+#colophon .widget_tag_cloud .tagcloud a:focus,
+#featured-classes .widget-footer a {
+    border-color: #0795fe;
+}
+
+#top-bar {
+    background-color: #0795fe;
+}
+
+#featured-gallery,
+#featured-testimonial {
+    background-color: #f6f6f6;
+}
+
+#featured-team,
+#blog {
+    background-color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.main-navigation a {
+    font-family: 'Karla', sans-serif;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/*--------------------------------------------------------------
+# Responsive
+--------------------------------------------------------------*/
+@media screen and (min-width: 1024px) {
+    .main-navigation ul.nav-menu .current_page_item > a, 
+    .main-navigation ul.nav-menu .current-menu-item > a, 
+    .main-navigation ul.nav-menu .current_page_ancestor > a, 
+    .main-navigation ul.nav-menu .current-menu-ancestor > a,
+    .main-navigation ul.nav-menu > li:hover > a, 
+    .main-navigation ul.nav-menu > li.focus > a {
+        color: #0795fe;
+    }
+    .main-navigation ul ul li:hover > a,
+    .main-navigation ul ul li.focus > a {
+        background-color: #0795fe;
+    }
+    .site-branding {
+        min-height: auto;
+        float: none;
+        display: block;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .main-navigation {
+        float: none;
+        border-top: 1px solid #eee;
+    }
+    .main-navigation ul.nav-menu > li {
+        padding: 25px;
+    }
+}

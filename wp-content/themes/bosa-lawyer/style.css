@@ -1,0 +1,286 @@
+/*!
+Theme Name: Bosa Lawyer
+Theme URI: https://bosathemes.com/bosa-lawyer
+Author: Keon Themes
+Author URI: https://keonthemes.com
+Description: Bosa Lawyer is multipurpose lawyer theme. Bosa Lawyer is beautiful, fast, lightweight, responsive, extremely customizable theme that you can use as a foundation to build versatile sites such as lawyer, individual attorneys, law firms, attorneys, counsel, legal adviser, legal experts, courts, solicitors, advocates, barristers, practitioner, legal, consultant, agency, services, financial centers or advisors, legal docs, marriage registration, jury member, law advisers, law office, finance, law offices, law teaching websites and businesses, legal officers, counsels legal service providers, law colleges, universities and institutions, law enforcing authority, cooperatives, consults, wealth advisors, investors, business firm, corporate, blog, news, portfolio and preferably ideal for any type of lawyer sites. Bosa Lawyer is a child theme of Bosa, a free multipurpose WordPress theme. Bosa Lawyer works perfectly with Gutenberg and the most popular page builder Elementor that can easily drag-and-drop your ideas from the interface. Bosa Lawyer is built with SEO, speed, and usability in mind with the multiple Header & Footer layouts, predesigned starter sites includes awesome Home & Inner Pages that is incredibly customizable and powerful enough to take a stand among the crowd. Bosa Lawyer is compatible with all major plugins like WooCommerce, Yoast, Contact form 7, Mailchimp for WordPress, bbPress, etc. Looking for a Multipurpose Lawyer theme? Look no further! Browse the demo to see that it's the only theme you will ever need: https://demo.bosathemes.com/bosa/lawyer
+Version: 1.0.7
+Requires PHP: 5.5
+Tested up to: 6.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: bosa
+Text Domain: bosa-lawyer
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Bosa Lawyer WordPress Theme, Copyright 2022 Keon Themes
+Bosa Lawyer is distributed under the terms of the GNU General Public License v3
+
+Bosa Lawyer is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+body {
+  color: #444444;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  color: #3a3a3a;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 600;
+}
+
+.wp-block-quote {
+  padding: 30px 30px 30px 50px;
+  margin: 30px 0 30px 30px;
+}
+
+.site-header .site-branding .site-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: none;
+}
+
+.main-navigation ul.menu > li > a {
+  font-family: 'Poppins', serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.section-banner .banner-content .entry-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.section-banner .banner-content .entry-text p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.8;
+  text-transform: initial;
+}
+
+.feature-posts-content-wrap .feature-posts-content .feature-posts-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.post .feature-posts-content .cat-links a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+#primary article .entry-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.highlight-post-slider .post .entry-content .entry-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.highlight-post-slider .post .cat-links a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.sidebar .widget .widget-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.page-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 48px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.site-footer .site-info,
+.site-footer .footer-menu ul li a {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px,
+  text-transform: none,
+  line-height: 1.6,
+}
+
+.header-four .top-header {
+  position: relative;
+}
+
+.site-header .header-btn a {
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.header-four .main-navigation-wrap {
+  -webkit-align-items: inherit;
+  -moz-align-items: inherit;
+  -ms-align-items: inherit;
+  -ms-flex-align: inherit;
+  align-items: inherit;
+}
+
+.header-four .bottom-contact {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 1px solid #e6e6e6;
+}
+
+.header-four .bottom-contact a {
+  display: block;
+  font-size: 14px;
+  position: relative;
+  padding-left: 40px;
+  text-align: left;
+}
+
+.header-four .bottom-contact a i {
+  font-size: 26px;
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-right: 0;
+  -webkit-transform: translate(0, -50%) rotate(100deg);
+  -moz-transform: translate(0, -50%) rotate(100deg);
+  -ms-transform: translate(0, -50%) rotate(100deg);
+  -o-transform: translate(0, -50%) rotate(100deg);
+  transform: translate(0, -50%) rotate(100deg);
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.header-four .bottom-contact a span {
+  color: #333;
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 1199px) {
+  .header-four .bottom-contact a {
+    padding-left: 40px;
+    font-size: 13px;
+  }
+  
+  .header-four .bottom-contact a i {
+    font-size: 18px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .header-four.site-header .site-branding {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .header-four.site-header .site-branding > a {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .header-four.site-header .mobile-menu-container {
+    border-top: 1px solid rgba(243, 243, 243, 0.8);
+  }
+
+  .header-four .bottom-contact a {
+    padding-left: 45px;
+  }
+}
+
+#bosa-lawyer-contact .wpcf7 input[type=text],
+#bosa-lawyer-contact .wpcf7 input[type=email],
+#bosa-lawyer-contact .wpcf7 textarea {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+}
+
+#bosa-lawyer-contact .wpcf7 input[type=submit] {
+  background-color: #EA5353;
+  font-weight: 500;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  padding: 20px 30px 20px 30px;
+}
+
+#bosa-lawyer-contact .wpcf7 input[type=submit]:hover,
+#bosa-lawyer-contact .wpcf7 input[type=submit]:active,
+#bosa-lawyer-contact .wpcf7 input[type=submit]:focus {
+  background-color: #181A32;
+}
